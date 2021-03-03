@@ -23,7 +23,7 @@ collections:
     output: true
   consumers:
     output: true
-  busineses:
+  businesses:
     output: true
   news-and-media:
     output: true
