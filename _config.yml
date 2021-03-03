@@ -33,8 +33,6 @@ resources_name: news-and-media
     news-and-media:
       output: true
 
-resources_name: example-resource
-
 description: An Isomer site of the Singapore Government
 
 ##################################################################################################################
