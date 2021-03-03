@@ -18,6 +18,20 @@ colors:
     - title: media-color-five
       color: '#00838f'
 
+collections:
+  about-us:
+    output: true
+  consumers:
+    output: true
+  busineses:
+    output: true
+  news-and-media:
+    output: true
+    
+resources_name: news-and-media
+  collections:
+    news-and-media:
+      output: true
 
 resources_name: example-resource
 
