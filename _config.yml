@@ -29,10 +29,7 @@ collections:
     output: true
     
 resources_name: news-and-media
-  collections:
-    news-and-media:
-      output: true
-
+ 
 description: An Isomer site of the Singapore Government
 
 ##################################################################################################################
