@@ -8,10 +8,14 @@ logo: /images/isomer-logo.svg
 
 links:
   - title: About Us
-    url: /about-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Collection
-    collection: example-collection
-  - title: Example Resource
+    collection: about-us
+  - title: Businesses
+    collection: businesses
+  - title: Consumers
+    collection: consumers
+  - title: News and Media
     resource_room: true
+  - title: Contact us
+    url: /contact-us/
+  - title: FAQ
+    url: /faq/
