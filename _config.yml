@@ -21,9 +21,9 @@ colors:
 collections:
   about-us:
     output: true
-  consumers:
-    output: true
   businesses:
+    output: true
+  consumers:
     output: true
   news-and-media:
     output: true
