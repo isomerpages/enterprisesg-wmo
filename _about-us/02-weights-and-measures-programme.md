@@ -4,7 +4,7 @@ permalink: /about-us/weights-and-measures-programme
 ---
 ## Overview
 
-Through the Weights and Measures Programme, Enterprise Singapore aims to protect consumers and traders by regulating weighing and measuring instruments used for trade, and the net content of prepackaged products. This assures consumers of the measuring instruments’ accuracy (e.g. when buying fresh produce at the wet market or filling up at the petrol station) and that the quantity stated on the labels of prepackaged products accurately reflects their net content. All weighing and measuring instruments that have been verified accurate and fit for trade use carry the Weights and Measures seal and the ACCURACY Label.
+Through the Weights and Measures Programme, the Weights and Measures Office aims to protect consumers and traders by regulating weighing and measuring instruments used for trade, and the net content of prepackaged products. This assures consumers of the measuring instruments’ accuracy (e.g. when buying fresh produce at the wet market or filling up at the petrol station) and that the quantity stated on the labels of prepackaged products accurately reflects their net content. All weighing and measuring instruments that have been verified accurate and fit for trade use carry the Weights and Measures seal and the ACCURACY Label.
  
 To ensure a uniform and accurate system of weights and measures in Singapore, we:
 
