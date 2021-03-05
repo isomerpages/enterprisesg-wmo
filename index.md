@@ -4,24 +4,22 @@ title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: Put announcement here!
 sections:
     - hero:
         title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
+        subtitle: 
+        background: /images/weights-measures-banner.png
         key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
+            - title: Registered Weights and Measuring Instruments
+              description: Verify if the instrument has a valid Accuracy Label
+              url: https://cpsa.enterprisesg.gov.sg/totalagility/forms/custom/publicsite/login.html
+            - title: Register New Weighing and Measuring Instruments 
+              url: https://cpsa.enterprisesg.gov.sg/totalagility/forms/cpssite/PublicTermsAndCondition.form?STR_FORM=PatternRegistration%20Submit.form
+            - title: Apply as Authorised Verifiers 
+              url: https://www.enterprisesg.gov.sg/-/media/esg/files/quality-and-standards/consumer-protection/for-suppliers/weights-and-measures/appln_for_designation_as_av.pdf?la=en
+            - title: Apply as Recognised Testing Laboratories (Flowmeter)
+              url: https://cpsa.enterprisesg.gov.sg/totalagility/forms/cpssite/PublicTermsAndCondition.form?STR_FORM=DesnApplicationWMPRTL.form%3FAT%3D1
     - infobar:
         title: Infobar title
         subtitle: Subtitle
