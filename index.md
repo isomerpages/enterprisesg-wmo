@@ -20,15 +20,17 @@ sections:
               url: https://www.enterprisesg.gov.sg/-/media/esg/files/quality-and-standards/consumer-protection/for-suppliers/weights-and-measures/appln_for_designation_as_av.pdf?la=en
             - title: Apply as Recognised Testing Laboratories (Flowmeter)
               url: https://cpsa.enterprisesg.gov.sg/totalagility/forms/cpssite/PublicTermsAndCondition.form?STR_FORM=DesnApplicationWMPRTL.form%3FAT%3D1
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+    - infopic:
+        title: Find Out More About the Weights And Measures Programme
+        subtitle: 
+        description: Traders must comply with the Weights and Measures Act to ensure accurate transactions and give consumers peace of mind knowing that they get what they pay for.
+        button: Learn More
+        url: /businesses/overview
+        image: /images/weighing-balance-cheese.png
+        alt: image of weighing balance
     - resources:
-        title: Media
-        subtitle: Learn more
+        title: News & Media
+        subtitle:
         button: View More
 ---
 
