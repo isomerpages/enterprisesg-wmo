@@ -7,8 +7,8 @@ permalink: /
 notification: Put announcement here!
 sections:
     - hero:
-        title: Hero title
-        subtitle: 
+        title: <h1>Weights and Measures Office<h1>
+        subtitle: <h3>Accuracy is our priority<h3>
         background: /images/weights-measures-banner.png
         key_highlights:
             - title: Registered Weights and Measuring Instruments
