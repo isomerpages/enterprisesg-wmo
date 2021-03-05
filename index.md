@@ -26,7 +26,7 @@ sections:
         description: Traders must comply with the Weights and Measures Act to ensure accurate transactions and give consumers peace of mind knowing that they get what they pay for.
         button: Learn More
         url: /businesses/overview
-        image: /images/weighing-balance-cheese.png
+        image: /images/weighing-balance-cheese.jpg
         alt: image of weighing balance
     - resources:
         title: News & Media
