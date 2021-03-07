@@ -8,7 +8,7 @@ notification: As of 1 May 2020, the Weights & Measures (Fees) regulations have b
 sections:
     - hero:
         title: <h1>Weights and Measures Office<h1>
-        subtitle: <h3>Accuracy is our priority<h3>
+        subtitle: <h3>Accurate instruments, fair transactions<h3>
         background: /images/weights-measures-banner.png
         key_highlights:
             - title: Registered Weights and Measuring Instruments
