@@ -3,14 +3,14 @@ title: Overview
 permalink: /about-us/overview
 ---
 
-## About us
+## About the Weights and Measures Office
 The Weights and Measures Office (WMO) is a department of Enterprise Singapore.
 It is the national body for legal metrology and oversees the administration of the [Weights and Measures Act][1]{:target="_blank"}  and the [Weights and Measures Regulations][2]{:target="_blank"}.
 
 
 Our **Mission** is a uniform and accurate system of weights and measures in Singapore. Our **Vision** is to ensure fair trade measurements to protect the interest of consumers and businesses. 
 
-## What we do?
+### What we do?
 
 The Weights and Measures Office is responsible for the legal metrology of all weighing and measuring instruments used for trade, such as mass, length and volumetric measurements of food, fuel and other essential commodities including pre-packaged goods.
 
