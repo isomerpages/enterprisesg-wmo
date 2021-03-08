@@ -4,7 +4,7 @@ title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: As of 1 May 2020, the Weights & Measures (Fees) regulations have been revised to reflect the lowered costs of verifying weighing and measuring instruments. To learn more, click [here](github.com/isomerpages/enterprisesg-wmo/raw/staging/files/announcements/circular-cw-wm-200501-2-weights-and-measures-fee.pdf).
+notification: As of 1 May 2020, the Weights & Measures (Fees) regulations have been revised to reflect the lowered costs of verifying weighing and measuring instruments. To learn more, click [here](__https://github.com/isomerpages/enterprisesg-wmo/raw/staging/files/announcements/circular-cw-wm-200501-2-weights-and-measures-fee.pdf).
 sections:
     - hero:
         title: <h1>Weights and Measures Office<h1>
