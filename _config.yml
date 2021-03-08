@@ -29,6 +29,8 @@ collections:
     output: true
     
 resources_name: news-and-media
+
+future: true
  
 description: An Isomer site of the Singapore Government
 
