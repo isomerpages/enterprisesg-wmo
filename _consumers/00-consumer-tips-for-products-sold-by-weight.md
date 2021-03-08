@@ -2,8 +2,9 @@
 title: Consumer Tips For Products Sold By Weight
 permalink: /consumers/consumer-tips-for-products-sold-by-weight
 ---
-### Measuring the weight of goods
 
+### Measuring the weight of goods
+![illustration-01](/images/Consumers/illustration-01.jpg)
 - Look out for the ACCURACY Label on the instrument.
 - Check that the display indicates ‘zero’ before the goods are weighed.
 - Make sure you are charged for the net weight of the goods. Avoid weighing products with other items such as ice or heavy containers.
