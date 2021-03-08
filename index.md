@@ -4,9 +4,7 @@ title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: As of 1 May 2020, the Weights & Measures (Fees) regulations have been revised to reflect the lowered costs of verifying weighing and measuring instruments. To learn more, click 
-            - button: here
-              url: https://cpsa.enterprisesg.gov.sg/totalagility/forms/custom/publicsite/Circular%20-%20CW-WM-200501-2%20-%20Weights%20and%20Measures%20Fee.pdf
+notification: As of 1 May 2020, the Weights & Measures (Fees) regulations have been revised to reflect the lowered costs of verifying weighing and measuring instruments. To learn more, click here.
 sections:
     - hero:
         title: <h1>Weights and Measures Office<h1>
