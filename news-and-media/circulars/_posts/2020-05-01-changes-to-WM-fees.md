@@ -11,11 +11,10 @@ Our Ref: CW-WM-200501-2
 
 Enterprise Singapore is the appointed national legal metrology body to administer the Weights and Measures Act (the Act) regulating weighing and measuring instruments (instruments) used for trade, and the net content of pre-packaged goods.
 
-  Maintenance fees        =         Verification & Service Fee    +       Report fee\
-  *(total fee payable)*            *(paid to service provider)*      *(paid to Authority)*
-
 ### Fees
 The Weights & Measures (Fees) Regulations have been in force since 1984, and several amendments have been made since to pass on savings from process improvements to businesses. Enterprise Singapore is committed to ensuring that the process of ensuring accurate weighing and measuring instruments is as business-friendly and cost efficient as possible. The revised fees will take effect from 1 May 2020.
+
+![Revised-fees](/images/news-and-media/WM-fees.PNG)
 
 Examples of current and revised fees are illustrated below. For a complete list of the Weights & Measures Fees, visit <www.enterprisesg.gov.sg/weights-measures>.
 
