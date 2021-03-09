@@ -16,7 +16,7 @@ The Weights & Measures (Fees) Regulations have been in force since 1984, and sev
 
 ![Revised-fees](/images/news-and-media/WM-fees.PNG)
 
-Examples of current and revised fees are illustrated below. For a complete list of the Weights & Measures Fees, visit <www.enterprisesg.gov.sg/weights-measures>.
+Examples of current and revised fees are illustrated below. For a complete list of the Weights & Measures Fees, visit <https://www.enterprisesg.gov.sg/weights-measures>.
 
 |**S/n**|**Report fee**|**Fees before 1 May 2020**|**Fees with effect from 1 May 2020**|
 --- | --- | --- | --- 
