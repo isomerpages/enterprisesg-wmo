@@ -11,12 +11,22 @@ Our Ref: CW-WM-200501-2
 
 Enterprise Singapore is the appointed national legal metrology body to administer the Weights and Measures Act (the Act) regulating weighing and measuring instruments (instruments) used for trade, and the net content of pre-packaged goods.
 
-> Maintenance fees *(total fee payable)* = Verification & Service Fee *(paid to service provider)* + Report fee *(paid to Authority)
+  Maintenance fees        =         Verification & Service Fee    +       Report fee\
+  *(total fee payable)*            *(paid to service provider)*      *(paid to Authority)*
 
 ### Fees
 The Weights & Measures (Fees) Regulations have been in force since 1984, and several amendments have been made since to pass on savings from process improvements to businesses. Enterprise Singapore is committed to ensuring that the process of ensuring accurate weighing and measuring instruments is as business-friendly and cost efficient as possible. The revised fees will take effect from 1 May 2020.
 
 Examples of current and revised fees are illustrated below. For a complete list of the Weights & Measures Fees, visit <www.enterprisesg.gov.sg/weights-measures>.
+
+|**S/n**|**Report fee**|**Fees before 1 May 2020**|**Fees with effect from 1 May 2020**|
+--- | --- | --- | --- 
+| 1 | Instrument with weighing capacity up to 1 metric ton | $3 - $26 | $3                                  
+| 2 | Instrument with weighing capacity from 1 to 30 metric tons | $26 - $606 | $25                                                     
+| 3 | Instrument with weighing capacity from 30 to 60 metric tons | $606 - $1,206 | $500                                  
+| 4 | Instrument with weighing capacity > 60 metric tons | >$1,206 | $1,000 
+| 5 | Petrol pump  | $45 | $30                                  
+| 6 | Flow meter | $40 | $30 
 
 ### Compliance to Regulatory Requirements
 The Act ensures the use of uniform weights and measures for trade purposes in Singapore, thereby protecting the interests of both sellers and buyers. Regular verification ensures that the weighing and measuring instruments perform within their permissible errors, so neither party is unfavourably affected during each trade transaction.
