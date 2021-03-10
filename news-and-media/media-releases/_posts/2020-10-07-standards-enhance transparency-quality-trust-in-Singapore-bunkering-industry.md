@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Standards Enhance Transparency, Quality And Trust In Singapore's Bunkering Industry
-permalink: /news-and-media/media-releases/standards-enhance-transparency-quality-and-trust-in-singapore-bunkering-industry.md
+permalink: /news-and-media/media-releases/standards-enhance-transparency-quality-and-trust-in-singapore-bunkering-industry
 ---
 ### Standards Enhance Transparency, Quality And Trust In Singapore's Bunkering Industry
 Study shows TR 48 improves productivity and reaps annual savings of at least S$80m for bunkering industry
