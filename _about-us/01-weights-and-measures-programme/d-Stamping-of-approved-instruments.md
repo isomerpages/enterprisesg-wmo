@@ -1,5 +1,5 @@
 ---
-title: Verification Of Approved Instruments
+title: Stamping Of Approved Instruments
 permalink: /about-us/weights-and-measures-programme/verification-of-approved-instruments
 third_nav_title: Weights and Measures Programme
 ---
