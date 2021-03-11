@@ -12,11 +12,6 @@ permalink: /consumers/consumer-tips-for-products-sold-by-weight
 - Check the receipt to make sure items’ prices are calculated correctly.
 - Alert the seller when the weight or price display is not clear or inaccurate. Get the seller to repeat the weighing or measuring if it is not done correctly.
 
-### What is the ACCURACY Label?
-|![accuracy-label](/images/about/accuracy_label.jpg) | ![blank2](images/about/blank2.png)| ![blank1](images/about/blank1.png) | ![blank1](images/about/blank1.png)
-All weighing or measuring scales used for trade in Singapore need to be verified for accuracy annually to ensure that consumers get what they pay for. Verified instruments will be affixed with an ACCURACY Label.
-The ACCURACY Label is valid for 12 months from the month it was verified.
-
 ### Buying pre-packaged products
 ![illustration-01](/images/Consumers/illustration-01.jpg)
 - Check goods with torn or tampered packaging to ensure net quantity is not less than that stated on the label
