@@ -4,8 +4,7 @@ permalink: /about-us/the-accuracy-label
 ---
 ## About the ACCURACY Label
 
-| ![blank](images/about/blank.png) | ![accuracy label](/images/about/accuracy_label.jpg) | ![blank](images/about/blank.png)
-
+| ![blank](images/about/blank1.png) | ![accuracy label](/images/about/accuracy_label.jpg) | ![blank](images/about/blank1.png)
 
 The ACCURACY Label is attached on weighing and measuring instruments that are verified fit for trade use. A verification seal is also attached to prevent tampering of the instruments.
  
