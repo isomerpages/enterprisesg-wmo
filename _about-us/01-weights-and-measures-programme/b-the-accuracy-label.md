@@ -5,7 +5,7 @@ third_nav_title: Weights and Measures Programme
 ---
 ## About the ACCURACY Label
 
-The ACCURACY Label is attached on weighing and measuring instruments that are verified fit for trade use. A verification seal is also attached to prevent tampering of the instruments.
+The ACCURACY Label is attached on weighing and measuring instruments that are verified fit for trade use. 
 
 | ![accuracy label](/images/about/accuracy_label.jpg) | ![blank2](images/about/blank2.png)| ![blank1](images/about/blank1.png) | ![blank1](images/about/blank1.png)
  
