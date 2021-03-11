@@ -16,14 +16,14 @@ permalink: /consumers/consumer-tips-for-products-sold-by-weight
 - Alert the seller when the weight or price display is not clear or inaccurate. Get the seller to repeat the weighing or measuring if it is not done correctly.
 
 **2. When buying pre-packaged products**
-| ![illustration-01](/images/Consumers/illustration-01.jpg) | ![blank](images/about/blank2.png) | ![blank](images/about/blank2.png) 
+| ![illustration-01](/images/Consumers/illustration-01.jpg)|![blank](images/about/blank2.png)|![blank](images/about/blank2.png) 
 
 - Check goods with torn or tampered packaging to ensure net quantity is not less than that stated on the label
 - The label should state the net content of the product using the metric unit system for example, kilogram (kg) for weight measurement.
 - Check the weight of the product on a weighing scale if you are doubtful of what is stated on the label.
 
 **3. When refueling at the petrol station**
-| ![illustration-03](/images/Consumers/illustration-03.jpg) | ![blank](images/about/blank1.png) | ![blank](images/about/blank1.png)
+| ![illustration-03](/images/Consumers/illustration-03.jpg) |![blank](images/about/blank1.png) |![blank](images/about/blank1.png)
 
 - Ensure the price and volume electronic display indicates ‘zero’ before dispensing fuel
 - Look out for any fuel leak before dispensing. Alert the station manager immediately if a leak is observed.
