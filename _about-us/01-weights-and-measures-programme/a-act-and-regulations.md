@@ -6,6 +6,8 @@ third_nav_title: Weights and Measures Programme
 
 ## Weights and Measures Regulations
 
+The Weights and Measures Office regulates weighing and measuring instruments for trade, such as mass, length and volumetric measurements of food, fuel and other essential commodities including pre-packaged goods.
+
 The requirements under the Weights and Measures Programme are governed by the Weights and Measures Act and subsidiary legislations:
 
 *Weights and Measures Act*:
