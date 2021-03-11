@@ -29,4 +29,4 @@ permalink: /consumers/consumer-tips-for-products-sold-by-weight
 
 - Ensure the price and volume electronic display indicates ‘zero’ before dispensing fuel
 - Look out for any fuel leak before dispensing. Alert the station manager immediately if a leak is observed.
-- Ensure the total price paid tally with the amount of fuel 
+- Ensure the total price paid tally with the amount of fuel.
