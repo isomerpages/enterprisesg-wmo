@@ -1,8 +1,10 @@
 ---
 title: Stamping Of Approved Instruments
-permalink: /about-us/weights-and-measures-programme/verification-of-approved-instruments
+permalink: /about-us/weights-and-measures-programme/stamping-of-approved-instruments
 third_nav_title: Weights and Measures Programme
 ---
+
+## Stamping Of Approved Instruments
 
 Approved patterns of weighing or measuring instruments must be verified by an Authorised Verifier, secured from tampering, and stamped with the Accuracy Label
 before being used for trade.
