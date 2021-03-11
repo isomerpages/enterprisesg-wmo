@@ -5,7 +5,7 @@ permalink: /consumers/consumer-tips-for-products-sold-by-weight
 
 Below are some tips for consumers to ensure that they receive the correct quantity when purchasing goods sold by weight.
 
-### Measuring the weight of goods
+#### 1. Measuring the weight of goods
 
 ![illustration-02](/images/Consumers/illustration-02.jpg)
 - Look out for the ACCURACY Label on the instrument.
@@ -14,13 +14,13 @@ Below are some tips for consumers to ensure that they receive the correct quanti
 - Check the receipt to make sure items’ prices are calculated correctly.
 - Alert the seller when the weight or price display is not clear or inaccurate. Get the seller to repeat the weighing or measuring if it is not done correctly.
 
-### Buying pre-packaged products
+#### 2. Buying pre-packaged products
 ![illustration-01](/images/Consumers/illustration-01.jpg)
 - Check goods with torn or tampered packaging to ensure net quantity is not less than that stated on the label
 - The label should state the net content of the product using the metric unit system for example, kilogram (kg) for weight measurement.
 - Check the weight of the product on a weighing scale if you are doubtful of what is stated on the label.
 
-### Refueling at the petrol station
+#### 3. Refueling at the petrol station
 ![illustration-03](/images/Consumers/illustration-03.jpg)
 - Ensure the price and volume electronic display indicates ‘zero’ before dispensing fuel
 - Look out for any fuel leak before dispensing. Alert the station manager immediately if a leak is observed.
