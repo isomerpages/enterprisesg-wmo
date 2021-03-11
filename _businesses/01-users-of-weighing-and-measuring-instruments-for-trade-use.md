@@ -9,14 +9,14 @@ permalink: /businesses/users-of-weighing-and-measuring-instruments-for-trade-use
 
 Weighing or measuring instruments used for trade in Singapore need to be registered with Enterprise Singapore and verified by an Authorised Verifier to ensure on instrument’s accuracy and fit for trade use. Examples of such instruments may be found in the Singapore Weights and Measures Programme information booklet. 
 
-Please refer to Annex B of the Weights and Measures Programme Information Booklet for the registration process of weighing and measuring instruments for trade use.
+Please refer to **Annex B** of the Weights and Measures Programme Information Booklet for the registration process of weighing and measuring instruments for trade use.
 
 
 **Verification of weighing and measuring instruments**
 
 Under the Weights and Measures Act, it is an offence to use unregistered and/or unverified instruments for trade in Singapore. It is the user’s responsibility to ensure the instrument is verified, secured from tampering, and stamped with the Accuracy Label by an Authorised Verifier before using it for trade. 
 
-Please refer to Annex C of the Weights and Measures Programme Information Booklet for the verification process of weighing and measuring instruments for trade use.
+Please refer to **Annex C** of the Weights and Measures Programme Information Booklet for the verification process of weighing and measuring instruments for trade use.
 
 **Metric unit system of measurement**
 
