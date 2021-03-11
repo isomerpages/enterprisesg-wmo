@@ -6,7 +6,7 @@ third_nav_title: Weights and Measures Programme
 ---
 ### Requirements under the Weights and Measures Programme
 
-#### 1. Approval Of Weighing and Measuring Instruments For Trade Use
+#### 1. Approval of weighing and measuring instruments for trade use
 
 Under the Weights and Measures Act, all weighing or measuring instruments for use for trade must have its pattern or type approved by the Weights and Measures Office before they can be used in Singapore. The pattern of a weighing and measuring instrument refers to the design of an instrument with all components affecting its measurement properties suitably specified.
 
@@ -16,7 +16,7 @@ The Weights and Measures Office has published a [Register of Weighing and Measur
 
 If you are aware of any weighing or measuring instrument that is not listed in this Register, please contact us at Tel: (65) 1800-773 3163 or Email: <consumerprotection@enterprisesg.gov.sg>.
 
-#### 2. Verification Of Approved Weighing and Measuring Instruments For Trade Use
+#### 2. Verification of approved weighing and measuring instruments for trade use
 
 Approved patterns of weighing or measuring instruments must be verified by an Authorised Verifier, secured from tampering, and stamped with the Accuracy Label
 before being used for trade.
