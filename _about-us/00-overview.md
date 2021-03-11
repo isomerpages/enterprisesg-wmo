@@ -9,7 +9,7 @@ It is the national body for legal metrology in Singapore and oversees the admini
 
 Our Mission is to ensure a uniform and accurate system of weights and measures in Singapore. Our Vision is to ensure fair trade measurements to protect the interest of consumers and businesses. 
 
-## What we do?
+### What we do?
 
 To ensure a uniform and accurate system of weights and measures in Singapore, we:
 
@@ -22,12 +22,12 @@ To ensure a uniform and accurate system of weights and measures in Singapore, we
 [1]:https://sso.agc.gov.sg/Act/WMA1975
 [2]:https://sso.agc.gov.sg/SL/WMA1975-S844-2005?DocDate=20180329
 
-## What can Businesses do?
+### What can Businesses do?
 Users, suppliers or importers of weighing and measuring instruments, as well as manufacturers and/or packers, importers and/or distributors, and retailers of pre-packaged goods must comply with the Weights and Measures Act to ensure accurate transactions and give consumers peace of mind knowing that they get what they pay for. 
 
 Find out more about [your role as a business](/businesses/overview){:target="_blank"}.
 
-## What can Consumers do?
+### What can Consumers do?
 Consumers can play a role in ensuring they receive the correct quantity when purchasing goods sold by weight. 
 
 Find out more about the [consumer tips for products sold by weight](/consumers/consumer-tips-for-products-sold-by-weight){:target="_blank"}.
