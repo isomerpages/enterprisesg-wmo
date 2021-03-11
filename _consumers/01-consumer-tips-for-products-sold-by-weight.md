@@ -7,7 +7,8 @@ Below are some tips for consumers to ensure that they receive the correct quanti
 
 #### 1. Measuring the weight of goods
 
-![illustration-02](/images/Consumers/illustration-02.jpg)
+| ![illustration-02](/images/Consumers/illustration-02.jpg) | ![blank](images/about/blank.png)| ![blank](images/about/blank.png) 
+
 - Look out for the ACCURACY Label on the instrument.
 - Check that the display indicates ‘zero’ before the goods are weighed.
 - Make sure you are charged for the net weight of the goods. Avoid weighing products with other items such as ice or heavy containers.
