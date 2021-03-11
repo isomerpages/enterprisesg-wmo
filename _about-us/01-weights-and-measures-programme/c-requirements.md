@@ -33,4 +33,4 @@ If you are aware of any weighing or measuring instrument that is not listed in t
 
 #### 3. Net content of pre-packaged goods
 
-It is an offence to supply or sell pre-packaged goods (PPGs) with net content less than the quantity stated on the package or label. Suppliers and/or retailers should have their own system or measures in place to ensure net content of the PPGs is as per stated on the package or label
+It is an offence to supply or sell pre-packaged goods (PPGs) with net content less than the quantity stated on the package or label. Suppliers and/or retailers should have their own system or measures in place to ensure net content of the PPGs is as per stated on the package or label.
