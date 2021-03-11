@@ -14,6 +14,6 @@ In addition, weighing or measuring instruments which are manufactured for use fo
 
 More information on the Weights and Measures Programme for suppliers or importers of weighing and measuring instruments can be found below.
 
-* [Singapore Weights and Measures Programme Information Booklet](/files/businesses/wmo_info_booklet.pdf){:target="_blank"}\
-* [e-registration of Weighing/Measuring Instruments](https://cpsa.enterprisesg.gov.sg/totalagility/forms/cpssite/PublicTermsAndCondition.form?STR_FORM=PatternRegistration%20Submit.form){:target="_blank"}\
+* [Singapore Weights and Measures Programme Information Booklet](/files/businesses/wmo_info_booklet.pdf){:target="_blank"}
+* [e-registration of Weighing/Measuring Instruments](https://cpsa.enterprisesg.gov.sg/totalagility/forms/cpssite/PublicTermsAndCondition.form?STR_FORM=PatternRegistration%20Submit.form){:target="_blank"}
 * [Register of Weighing and Measuring Instruments Granted Pattern Approval](https://cpsa.enterprisesg.gov.sg/totalagility/forms/cpssite/PUBSearchGPA.form){:target="_blank"}
