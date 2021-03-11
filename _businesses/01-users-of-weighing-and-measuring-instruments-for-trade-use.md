@@ -11,7 +11,7 @@ Under the Weights and Measures Act, it is an offence to use unregistered and/or 
 Traders should also ensure the use of the metric unit system of measurement when transacting or advertising goods. For example, Kilogram for goods measured by weight, and Litre for goods measured by volume.
 
 More information on the Weights and Measures Programme can be found below:
--[Singapore Weights and Measures Programme information booklet](/files/businesses/wmo_info_booklet.pdf){:target="_blank"}<br>
--[List of Authorised Verifiers of Weighing and Measuring Instruments](/files/businesses/authorised-verifiers-list.pdf){:target="_blank"}<br>
--[List of Recognised Testing Laboratories](/files/businesses/list_of_rtl.pdf){:target="_blank"} for the Recognised Testing Laboratory (Flowmeter) Scheme<br>
+-[Singapore Weights and Measures Programme information booklet](/files/businesses/wmo_info_booklet.pdf){:target="_blank"}\
+-[List of Authorised Verifiers of Weighing and Measuring Instruments](/files/businesses/authorised-verifiers-list.pdf){:target="_blank"}/
+-[List of Recognised Testing Laboratories](/files/businesses/list_of_rtl.pdf){:target="_blank"} for the Recognised Testing Laboratory (Flowmeter) Scheme
 
