@@ -1,11 +1,11 @@
 ---
-title: Instruments For Trade Use
+title: Approval Of Instruments For Trade Use
 permalink: /about-us/weights-and-measures-programme/instruments-for-trade-use
 third_nav_title: Weights and Measures Programme
 
 ---
 
-## Weighing and Measuring Instruments For Trade Use
+## Approval Of Weighing and Measuring Instruments For Trade Use
 
 Under the Weights and Measures Act, all weighing or measuring instruments for use for trade must have its pattern or type approved by the Weights and Measures Office before they can be used in Singapore. Examples of such instruments include:
 
