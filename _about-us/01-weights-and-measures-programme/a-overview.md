@@ -16,3 +16,5 @@ The Weights and Measures Programme covers weighing and measuring instruments for
 - Flow meters
 - Fuel dispensing pump
 - Linear measure.
+
+You may refer to the First Schedule of the [Weights and Measures Regulations 2005](https://sso.agc.gov.sg/SL/WMA1975-S844-2005?DocDate=20180329) for the prescribed instruments for trade use.
