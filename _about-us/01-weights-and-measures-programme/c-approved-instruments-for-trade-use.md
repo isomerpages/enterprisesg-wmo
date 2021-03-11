@@ -16,3 +16,5 @@ Examples of such instruments include:
 - Linear measure.
 
 Approved patterns of weighing and measuring instrument have undergone various tests and are in compliance with the relevant international standards. This ensures that the instruments can maintain their accuracy under different climatic and operating conditions, and that no substandard design of weighing and measuring instruments for trade use are used in Singapore.
+
+The Weights and Measures Office have published a [Register of Weighing and Measuring Instruments Granted Pattern Approval](https://cpsa.enterprisesg.gov.sg/totalagility/forms/cpssite/PUBSearchGPA.form) to help consumers and traders identify weighing or measuring instruments that have been granted pattern approval in accordance with the Weights and Measures Act and Regulations. If you are aware of any weighing or measuring instrument that is not listed in this Register, please contact us at Tel: (65) 1800-773 3163 or Email: <consumerprotection@enterprisesg.gov.sg>.
