@@ -1,6 +1,6 @@
 ---
-title: Approval Of Instruments For Trade Use
-permalink: /about-us/weights-and-measures-programme/instruments-for-trade-use
+title: Approval Of Instruments 
+permalink: /about-us/weights-and-measures-programme/approval-of-instruments
 third_nav_title: Weights and Measures Programme
 
 ---
