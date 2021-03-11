@@ -1,20 +1,20 @@
 ---
-title: Approval Of Instruments 
-permalink: /about-us/weights-and-measures-programme/approval-of-instruments
+title: Scope
+permalink: /about-us/weights-and-measures-programme/scope
 third_nav_title: Weights and Measures Programme
 
 ---
 
-## Approval Of Weighing and Measuring Instruments For Trade Use
+## Scope of the Weights and Measures programme 
 
-Under the Weights and Measures Act, all weighing or measuring instruments for use for trade must have its pattern or type approved by the Weights and Measures Office before they can be used in Singapore. Examples of such instruments include:
+The Weights and Measures Programme covers weighing and measuring instruments for trade use. "For trade use" refers to transactions involving the transferring or rendering of money worth by reference to a certain quantity of goods exchanged, or where there is payment in respect of any toll or duty. Examples of such instruments include:
 
 - Non-automatic  weighing  instruments  such  as  spring  scales,  electronic scales, weigh bridge, etc
 - Flow meters
 - Fuel dispensing pump
 - Linear measure.
 
-The pattern of a weighing and measuring instrument refers to the design of an instrument with all components affecting its measurement properties suitably specified.
+Under the Weights and Measures Act, all weighing or measuring instruments for use for trade must have its pattern or type approved by the Weights and Measures Office before they can be used in Singapore. The pattern of a weighing and measuring instrument refers to the design of an instrument with all components affecting its measurement properties suitably specified.
 
 Approved patterns of weighing and measuring instrument have undergone various tests and are in compliance with the relevant international standards. This ensures that the instruments can maintain their accuracy under different climatic and operating conditions, and that no substandard design of weighing and measuring instruments for trade use are used in Singapore.
 
