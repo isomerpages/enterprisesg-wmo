@@ -22,7 +22,7 @@ To ensure a uniform and accurate system of weights and measures in Singapore, we
 [1]:https://sso.agc.gov.sg/Act/WMA1975
 [2]:https://sso.agc.gov.sg/SL/WMA1975-S844-2005?DocDate=20180329
 
-### What can Businesses do?
+### What must Businesses do?
 Users, suppliers or importers of weighing and measuring instruments, as well as manufacturers and/or packers, importers and/or distributors, and retailers of pre-packaged goods must comply with the Weights and Measures Act to ensure accurate transactions and give consumers peace of mind knowing that they get what they pay for. 
 
 Find out more about [your role as a business](/businesses/overview){:target="_blank"}.
