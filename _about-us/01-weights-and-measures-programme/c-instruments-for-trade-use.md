@@ -7,7 +7,7 @@ third_nav_title: Weights and Measures Programme
 
 ## Weighing and Measuring Instruments For Trade Use
 
-All weighing or measuring instruments for use for trade must have its pattern or type approved by the Weights and Measures Office before they can be used in Singapore. Examples of such instruments include:
+Under the Weights and Measures Act, all weighing or measuring instruments for use for trade must have its pattern or type approved by the Weights and Measures Office before they can be used in Singapore. Examples of such instruments include:
 
 - non-automatic  weighing  instruments  such  as  spring  scales,  electronic scales, weigh bridge, etc
 - Flow meters
