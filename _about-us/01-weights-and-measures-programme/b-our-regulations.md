@@ -1,11 +1,12 @@
 ---
 title: Our Regulations
 permalink: /about-us/our-regulations
+third_nav_title: Weights and Measures Programme
 ---
 
 ## Weights and Measures Regulations
 
-The Weights and Measures Act and subsidiary legislations may be accessed from the weblinks below:
+The programmes under the Weights and Measures Office is governed by the Weights and Measures Act and subsidiary legislations below:
 
 *Weights and Measures Act*:
 - [Weights and Measures Act (Chapter 349)](https://sso.agc.gov.sg/Act/WMA1975){:target="_blank"}
