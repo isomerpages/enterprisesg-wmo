@@ -9,7 +9,9 @@ It is the national body for legal metrology in Singapore and oversees the admini
 
 The Weights and Measures Office regulates weighing and measuring instruments for trade, such as mass, length and volumetric measurements of food, fuel and other essential commodities including pre-packaged goods.
 
-Our Mission is to ensure a uniform and accurate system of weights and measures in Singapore. Our Vision is to ensure fair trade measurements to protect the interest of consumers and businesses. 
+Our Mission is to ensure a uniform and accurate system of weights and measures in Singapore. 
+
+Our Vision is to ensure fair trade measurements to protect the interest of consumers and businesses. 
 
 ### What we do?
 
