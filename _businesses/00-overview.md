@@ -5,7 +5,7 @@ permalink: /businesses/overview
 
 ## Overview
 
-As a business, your company has the responsibility to ensure that all weighing and measuring instruments used are type approved, registered with the Weights and Measures Office, and thereafter verified by Authorised Verifiers. In addition, the net contents of pre-packaged goods must not be less than the quantity stated on the  package  or  label.
+Businesses have the responsibility to ensure that all weighing and measuring instruments used are type approved, registered with the Weights and Measures Office, and thereafter verified by Authorised Verifiers. In addition, the net contents of pre-packaged goods must not be less than the quantity stated on the  package  or  label.
 
 Businesses should also ensure that their weighing or measuring instruments are:
 
