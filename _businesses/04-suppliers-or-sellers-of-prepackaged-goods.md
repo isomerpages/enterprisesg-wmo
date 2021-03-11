@@ -6,7 +6,8 @@ permalink: /conformity-assessment-body/suppliers-or-sellers-of-prepackaged-goods
 
 It is an offence to supply or sell pre-packaged goods (PPGs) with net content less than the quantity stated on the package or label. Suppliers and/or retailers should have their own system or measures in place to ensure net content of the PPGs is as per stated on the package or label.
 
-Suppliers and/or retailers should also ensure the net content of the pre-packaged good stated on the label is in the metric system of measurement. Below are examples of metric unitscommonly used in trade measurements. For other metric units of measurement, refer to the First Schedule of the [Weights and Measures Act][1]{:target="_blank"}
+**Metric system of measurement**\
+Suppliers and/or retailers should also ensure the net content of the pre-packaged good stated on the label is in the metric system of measurement. Below are examples of metric unitscommonly used in trade measurements. For other metric units of measurement, refer to the First Schedule of the [Weights and Measures Act][1]{:target="_blank"}.
 
 [1]:https://sso.agc.gov.sg/Act/WMA1975
 
@@ -14,6 +15,8 @@ Suppliers and/or retailers should also ensure the net content of the pre-package
 --- | --- | --- | --- 
 | Metric units: | Kilogram, Gram, Milligram, Carat (metric) | Litre, Millitre | Kilometre, Metre, Centimetre, Millimetre
 
+
+**Average Quantity System**\
 The Average Quantity System (AQS) is an internationally recognised sampling method used by businesses to check that the pre-packaged goods they sell are accurately filled.
 
 A sampled batch would fulfil the AQS if,
