@@ -14,4 +14,4 @@ More information on the Weights and Measures Programme can be found below:
 [Singapore Weights and Measures Programme information booklet](/files/businesses/wmo_info_booklet.pdf){:target="_blank"}\
 [List of Authorised Verifiers of Weighing and Measuring Instruments](/files/businesses/authorised-verifiers-list.pdf){:target="_blank"}\
 [List of Recognised Testing Laboratories](/files/businesses/list_of_rtl.pdf){:target="_blank"} for the Recognised Testing Laboratory (Flowmeter) Scheme\
-[List of registered Weighing and Measuring Instruments](https://cpsa.enterprisesg.gov.sg/totalagility/forms/custom/publicsite/login.html){:target="_blank"}
+[List of Registered Weighing and Measuring Instruments](https://cpsa.enterprisesg.gov.sg/totalagility/forms/custom/publicsite/login.html){:target="_blank"}
