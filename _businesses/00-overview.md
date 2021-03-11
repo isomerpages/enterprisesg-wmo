@@ -21,5 +21,5 @@ Businesses should also ensure that their weighing or measuring instruments are:
 For further information, please refer to the respective sections depending on your nature of business:
 - [Users of weighing and measuring instruments for trade use](/businesses/users-of-weighing-and-measuring-instruments-for-trade-use)
 - [Suppliers or importers of weighing and measuring instruments](/businesses/suppliers-or-importers-of-weighing-and-measuring-instruments)
-- [For Authorised Verifiers and Recognised Testing Laboratories (Flowmeter)](/businesses/authorised-verifiers-and-recognised-testing-laboratories)
-- [For Manufacturers and/or Packers, Importers and/or Distributors, and Retailers of Pre-packaged Goods](/conformity-assessment-body/suppliers-or-sellers-of-prepackaged-goods)
+- [Authorised Verifiers and Recognised Testing Laboratories (Flowmeter)](/businesses/authorised-verifiers-and-recognised-testing-laboratories)
+- [Manufacturers and/or Packers, Importers and/or Distributors, and Retailers of Pre-packaged Goods](/conformity-assessment-body/suppliers-or-sellers-of-prepackaged-goods)
