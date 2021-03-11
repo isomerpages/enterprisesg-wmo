@@ -1,5 +1,5 @@
 ---
-title: Users of Weighing and Measuring Instruments For Trade Use
+title: Users of Weighing and Measuring Instruments
 permalink: /businesses/users-of-weighing-and-measuring-instruments-for-trade-use
 ---
 ## For users of weighing and measuring instruments for trade use
