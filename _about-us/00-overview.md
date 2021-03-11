@@ -1,5 +1,5 @@
 ---
-title: Overview
+title: Overview of Weights and Measures Office
 permalink: /about-us/overview
 ---
 
