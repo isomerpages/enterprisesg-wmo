@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Consumer Product Safety Office
+agency_name: Weights and Measures Office
 locations:
   - title: Address
     address:
