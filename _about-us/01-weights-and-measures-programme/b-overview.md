@@ -10,7 +10,7 @@ The Weights and Measures Programme is a system of verification in place to ensur
 
 ### Scope of the Weights and Measures programme 
 
-The Weights and Measures Programme covers weighing and measuring instruments for trade use. "For trade use" refers to transactions involving the transferring or rendering of money worth by reference to a certain quantity of goods exchanged, or where there is payment in respect of any toll or duty. Examples of such instruments include:
+The Weights and Measures Programme applies to weighing and measuring instruments for trade use. "For trade use" refers to transactions involving the transferring or rendering of money worth by reference to a certain quantity of goods exchanged, or where there is payment in respect of any toll or duty. Examples of such instruments include:
 
 - Non-automatic  weighing  instruments  such  as  spring  scales,  electronic scales, weigh bridge, etc
 - Flow meters
