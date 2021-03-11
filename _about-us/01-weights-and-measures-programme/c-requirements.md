@@ -21,6 +21,8 @@ If you are aware of any weighing or measuring instrument that is not listed in t
 Approved patterns of weighing or measuring instruments must be verified by an Authorised Verifier, secured from tampering, and stamped with the Accuracy Label
 before being used for trade.
 
+The annual verification of a non-automatic weighing instrument involves a process that ensures the instrument is functioning correctly and sealed, so that subsequent signs of tampering would be evident. This is to safeguard the interests of both consumers and businesses. 
+
 The Weights and Measures Office has published a [Register of Weighing and Measuring Instruments Affixed with a Stamp and
 Accuracy Label](https://cpsa.enterprisesg.gov.sg/totalagility/forms/cpssite/PUBSearchWMI.form){:target="_blank"} to help consumers and businesses identify weighing or measuring instruments that have been affixed with a stamp and Accuracy Label in accordance with the Weights and Measures Act and Regulations.
 
