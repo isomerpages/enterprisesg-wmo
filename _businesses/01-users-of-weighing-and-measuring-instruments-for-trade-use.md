@@ -12,14 +12,14 @@ Traders should also ensure the use of the metric unit system of measurement when
 
 More information on the Weights and Measures Programme for users of weighing and measuring instruments for trade use can be found below.
 
-- Updated May 2020 <br>
+- 1 <br>
 [Singapore Weights and Measures Programme Information Booklet](/files/businesses/wmo_info_booklet.pdf){:target="_blank"}\
 
--<br>
+- 2 <br>
 [List of Authorised Verifiers of Weighing and Measuring Instruments](/files/businesses/authorised-verifiers-list.pdf){:target="_blank"}\
 
--<br>
+- 3 <br>
 [List of Recognised Testing Laboratories](/files/businesses/list_of_rtl.pdf){:target="_blank"} for the Recognised Testing Laboratory (Flowmeter) Scheme\
 
--<br>
+- 4 <br>
 [List of Registered Weighing and Measuring Instruments](https://cpsa.enterprisesg.gov.sg/totalagility/forms/custom/publicsite/login.html){:target="_blank"}
