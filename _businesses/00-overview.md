@@ -14,11 +14,11 @@ Businesses should also ensure that their weighing or measuring instruments are:
 - Zeroed before goods are weighed or measured; 
 - Cleaned and free from foreign particles on the weighing or measuring areas, e.g. weighing pan, dispenser nozzles;
 - Sent for annual verification to prevent short weights or measures; 
-- Affixed with the Weights andMeasures verification seal at all times; 
+- Affixed with the Weights and Measures verification seal at all times; 
 - Affixed with a valid ACCURACY Label that is visible to consumers at all times; and
 - Showing a visual reading to consumers e.g. with the use of electronic dual-faced indicator type of instruments. 
 
-For further information, please refer to the respective sections relevant to your company:
+For further information, please refer to the respective sections depending on your nature of business:
 - [Users of weighing and measuring instruments for trade use](/businesses/users-of-weighing-and-measuring-instruments-for-trade-use)
 - [Suppliers or importers of weighing and measuring instruments](/businesses/suppliers-or-importers-of-weighing-and-measuring-instruments)
 - [For Authorised Verifiers and Recognised Testing Laboratories (Flowmeter)](/businesses/authorised-verifiers-and-recognised-testing-laboratories)
