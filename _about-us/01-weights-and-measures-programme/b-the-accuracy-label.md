@@ -5,7 +5,7 @@ third_nav_title: Weights and Measures Programme
 ---
 ## About the ACCURACY Label
 
-All new or repaired instruments which have been verified by Authorised Verifiers as accurate and fit for trade use are affixed with an Accuracy Label as shown below.
+The ACCURACY Label is attached on weighing and measuring instruments that are verified fit for trade use. A verification seal is also attached to prevent tampering of the instruments.
 
 | ![accuracy label](/images/about/accuracy_label.jpg) | ![blank2](images/about/blank2.png)| ![blank1](images/about/blank1.png) | ![blank1](images/about/blank1.png)
  
