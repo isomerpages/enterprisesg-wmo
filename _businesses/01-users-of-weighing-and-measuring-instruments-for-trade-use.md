@@ -12,7 +12,7 @@ Traders should also ensure the use of the metric unit system of measurement when
 
 More information on the Weights and Measures Programme for users of weighing and measuring instruments for trade use can be found below.
 
--<br>
+- Updated May 2020 <br>
 [Singapore Weights and Measures Programme Information Booklet](/files/businesses/wmo_info_booklet.pdf){:target="_blank"}\
 
 -<br>
