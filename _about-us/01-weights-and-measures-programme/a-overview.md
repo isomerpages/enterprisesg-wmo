@@ -1,6 +1,8 @@
 ---
 title: Weights and Measures Programme
-permalink: /about-us/weights-and-measures-programme
+permalink: /about-us/weights-and-measures-programme/overview
+third_nav_title: Weights and Measures Programmes
+
 ---
 
 ## Accurate and Uniform System for Businesses and Consumers
