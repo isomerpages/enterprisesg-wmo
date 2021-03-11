@@ -1,6 +1,6 @@
 ---
-title: Act and Regulations
-permalink: /about-us/act-and-regulations
+title: Regulations
+permalink: /about-us/weights-and-measures-programme/regulations
 third_nav_title: Weights and Measures Programme
 ---
 
