@@ -4,9 +4,15 @@ permalink: /businesses/authorised-verifiers-and-recognised-testing-laboratories
 ---
 ## For Authorised Verifiers and Recognised Testing Laboratories (Flowmeter) 
 
+**Authorised Verifiers**
+
 Under the Weights and Measures Act, qualified companies are allowed to carry out the verification and stamping of weighing and measuring instruments for trade use under the Authorised Verifier Scheme administered by Enterprise Singapore. 
 
-The Recognised Testing Laboratory (Flowmeter) Scheme is also implemented to supplement the verification capability of flowmeters used for trade in Singapore. 
+Authorised Verifiers must be certified to ISO 9001 Quality Management Systems or accredited to ISO/IEC 17025 General Requirements for Competence of Testing and Calibration Laboratories. 
+
+**Recognised Testing Laboratories (Flowmeter)**
+
+The Recognised Testing Laboratory (Flowmeter) Scheme for flowmeter laboratories located outside of Singapore is also implemented to supplement the verification capability of flowmeters used for trade in Singapore.  Recognised Testing Laboratories must be accredited to ISO/IEC 17025 by the International Laboratory Accreditation Cooperation (ILAC) multilateral MRA signatory accredited body.
 
 For more information on these schemes, refer to the links below.
 
