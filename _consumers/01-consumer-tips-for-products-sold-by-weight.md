@@ -3,7 +3,7 @@ title: Consumer Tips For Products Sold By Weight
 permalink: /consumers/consumer-tips-for-products-sold-by-weight
 ---
 
-Below are some tips for consumers to check that they receive the correct quantity when purchasing goods sold by weight.
+### How can consumers check that they receive the correct quantity when purchasing goods sold by weight? 
 
 #### 1. Measuring the weight of goods
 
