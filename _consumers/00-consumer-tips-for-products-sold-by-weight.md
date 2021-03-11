@@ -4,7 +4,8 @@ permalink: /consumers/consumer-tips-for-products-sold-by-weight
 ---
 
 ### Measuring the weight of goods
-![illustration-02](/images/Consumers/illustration-02.jpg)
+
+| ![illustration-02](/images/Consumers/illustration-02.jpg) | ![blank2](images/about/blank2.png)| ![blank1](images/about/blank1.png) | ![blank1](images/about/blank1.png)
 - Look out for the ACCURACY Label on the instrument.
 - Check that the display indicates ‘zero’ before the goods are weighed.
 - Make sure you are charged for the net weight of the goods. Avoid weighing products with other items such as ice or heavy containers.
@@ -12,7 +13,7 @@ permalink: /consumers/consumer-tips-for-products-sold-by-weight
 - Alert the seller when the weight or price display is not clear or inaccurate. Get the seller to repeat the weighing or measuring if it is not done correctly.
 
 ### What is the ACCURACY Label?
-![accuracy-label](/images/about/accuracy_label.jpg)
+|![accuracy-label](/images/about/accuracy_label.jpg) | ![blank2](images/about/blank2.png)| ![blank1](images/about/blank1.png) | ![blank1](images/about/blank1.png)
 All weighing or measuring scales used for trade in Singapore need to be verified for accuracy annually to ensure that consumers get what they pay for. Verified instruments will be affixed with an ACCURACY Label.
 The ACCURACY Label is valid for 12 months from the month it was verified.
 
