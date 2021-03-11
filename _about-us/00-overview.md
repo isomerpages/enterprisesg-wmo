@@ -30,4 +30,4 @@ Find out more about [your role as a business](/businesses/overview){:target="_bl
 ## What can Consumers do?
 Consumers can play a role in ensuring they receive the correct quantity when purchasing goods sold by weight. 
 
-Find out more about the [consumer tips for products sold by weight] (/consumers/consumer-tips-for-products-sold-by-weight){:target="_blank"}.
+Find out more about the [consumer tips for products sold by weight](/consumers/consumer-tips-for-products-sold-by-weight){:target="_blank"}.
