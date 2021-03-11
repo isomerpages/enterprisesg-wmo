@@ -12,7 +12,7 @@ By registering the pattern of the weighing and measuring instrument, it ensures 
 
 In addition, weighing or measuring instruments which are manufactured for use for trade purposes, must have in their instruction or operation manuals/leaflets, a statement advising users to  seek  approval  from  their  national  weights  and  measures  authority  before  these instruments can be used for trade purposes.
 
-More information on the Weights and Measures Programme for suppliers or importers of weighing and measuring instruments can be found below:\
+More information on the Weights and Measures Programme for suppliers or importers of weighing and measuring instruments can be found below.
 
 [Singapore Weights and Measures Programme Information Booklet](/files/businesses/wmo_info_booklet.pdf){:target="_blank"}\
 [e-registration of Weighing/Measuring Instruments](https://cpsa.enterprisesg.gov.sg/totalagility/forms/cpssite/PublicTermsAndCondition.form?STR_FORM=PatternRegistration%20Submit.form){:target="_blank"}\
