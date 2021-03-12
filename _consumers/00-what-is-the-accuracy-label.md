@@ -11,4 +11,4 @@ All weighing or measuring scales used for trade in Singapore need to be verified
 
 Verified instruments will be affixed with an ACCURACY Label. The ACCURACY Label is valid for 12 months from the month it was verified.
 
-For more information on the ACCURACY label, please refers to the [FAQs on ACCURACY label](https://github.com/isomerpages/enterprisesg-wmo/blob/ed577ca77c1f475a13d46cec87bc4ce6e5ea0c31/_faq/01-faq-accuracy-label.md).
+For more information on the ACCURACY label, please refers to the [FAQs on ACCURACY label](/faq/faq-accuracy-label).
