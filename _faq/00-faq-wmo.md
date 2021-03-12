@@ -28,7 +28,7 @@ WMO performs the following functions:
 
 Your weighing or measuring instrument needs to be verified before it can be used for trade. Contact an Authorised Verifier (AV) to make arrangements to have your weighing or measuring instrument verified/stamped. A list of the AVs can be found at [List of Authorised Verifiers of Weighing and Measuring Instruments][1]{:target="_blank"}.
 
-[1]:(/files/businesses/authorised-verifiers-list.pdf)
+[1]:/files/businesses/authorised-verifiers-list.pdf
 
 **5. Why is there a need to register the pattern of weighing and measuring instruments for trade use?**
 
@@ -53,7 +53,7 @@ An applicant wishing to seek approval and registration for a weighing or measuri
 
 Only registered weighing and measuring instruments are allowed to be used for trade purposes in Singapore.
 
-[1]:(https://cpsa.enterprisesg.gov.sg/totalagility/forms/cpssite/PublicTermsAndCondition.form?STR_FORM=PatternRegistration%20Submit.form)
+[1]:https://cpsa.enterprisesg.gov.sg/totalagility/forms/cpssite/PublicTermsAndCondition.form?STR_FORM=PatternRegistration%20Submit.form
 
 **8. How long is the registration process?**
  
