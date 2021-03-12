@@ -23,7 +23,7 @@ Please refer to **Annex C** of the Weights and Measures Programme Information Bo
 Traders should also ensure the use of the metric unit system of measurement when transacting or advertising goods. For example, Kilogram for goods measured by weight, and Litre for goods measured by volume.
 
 
-More information on the Weights and Measures Programme for users of weighing and measuring instruments for trade use can be found below.
+More information on the Weights and Measures Programme can be found below.
 
 * [Singapore Weights and Measures Programme Information Booklet](/files/businesses/wmo_info_booklet.pdf){:target="_blank"}
 * [List of Authorised Verifiers of Weighing and Measuring Instruments](/files/businesses/authorised-verifiers-list.pdf){:target="_blank"}
