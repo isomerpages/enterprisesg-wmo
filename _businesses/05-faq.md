@@ -1,6 +1,6 @@
 ---
 title: FAQs
-permalink: /businesses/faqs
+permalink: /businesses/faq
 ---
 
 ### Frequently Asked Questions
