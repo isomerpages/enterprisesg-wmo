@@ -3,17 +3,29 @@ title: Terms of Use
 permalink: /terms-of-use/
 ---
 
-#### Government of Singapore Privacy Statement
-   
-1.This is a Government of Singapore website.
- 
-2.If you are only browsing this website, we do not capture data that allows us to identify you individually.
- 
-3.If you choose to make an application or send us an e-mail for which you provide us with personal data, we may share necessary data with other Government agencies, so as to serve you in the most efficient and effective way, unless such sharing is prohibited by legislation. We will NOT share your personal data with non-Government entities, except where such entities have been authorised to carry out specific Government services.
- 
-4.For your convenience, we may also display to you data you had previously supplied us or other Government agencies. This will speed up the transaction and save you the trouble of repeating previous submissions. Should the data be out-of-date, please supply us with the latest data. We will retain your personal data only as necessary for the effective delivery of public services to you.
-  
-5.To safeguard your personal data, all electronic storage and transmission of personal data are secured with appropriate security technologies.
-   
-6.This site may contain links to non-Government sites whose data protection and privacy practices may differ from ours. We are not responsible for the content and privacy practices of these other websites and encourage you to consult the privacy notices of those sites.
+
+#### 1. Agreement - Terms  
+All access to any area of our websiteare governed by the terms and conditions below ("Terms"). If you are not comfortable with any of these Terms, we would advise you to exit. Please continue only if you can accept these Terms.  In these Terms, the words "we", "our" and "us" refers to Singapore Accreditation Council.
+
+#### 2. Access To WMO  
+The accessibility and operation of our website rely on technologies outside our control. We are not able to guarantee continuous accessibility or uninterrupted operation of our website.
+
+#### 3. Relying On Information  
+We provide our website as a general information source only. Do note that we are not involved in giving professional advice here. The website may not cover all information available on a particular issue. We would advise that you conduct your own checks or obtain professional advice relevant to your particular circumstances, outside of our website.
+
+#### 4. Security  
+Where appropriate, we use available technology to protect the security of communications made through our website. Do note that we do not accept liability for the security, authenticity, integrity or confidentiality of any transactions and other communications made through our website. 
+
+Internet communications may be susceptible to interference or interception by third parties. We will do our best but we cannot make any warranties that our website is free of infection by computer viruses or other unauthorised software.
+
+#### 5. Hyperlinks  
+We are not responsible or liable for the availability or content of any other Internet site (not provided by us) linked to or from our website. Access to any other Internet site is at your own risk. If you create a link or frame to our website, you do so at your own risk.  
+
+We reserve the right to object or disable any link or frame to or from our website.
+
+#### 6. Video and Audio Contents  
+Do take note that you may not copy, reproduce, edit, adapt, alter, republish, post, broadcast, transmit, make available to the public, or otherwise use the audio or video on our website in any way except for your own personal, non-commercial use.  
+
+You may not download or use our files for the purpose of promoting, advertising, endorsing or implying a connection with you (or any third party) and Singapore Accreditation Council, its agents or employees.
+
 
