@@ -23,3 +23,10 @@ WMO performs the following functions:
 - Inspecting such instruments for trade use for inaccuracies and tampering.
 - Inspecting pre-packaged goods or goods sold by weight or measure for short-weight or measure.
 - Investigating complaints pertaining to weights and measures matters from consumers or traders.
+
+**4. My business requires the use of weighing and measuring instruments. What should I do? How can I get my weighing or measuring instruments verified/stamped?**
+
+Your weighing or measuring instrument needs to be verified before it can be used for trade. Contact an Authorised Verifier (AV) to make arrangements to have your weighing or measuring instrument verified/stamped. A list of the AVs can be found at [List of Authorised Verifiers of Weighing and Measuring Instruments][1]{:target="_blank"}.
+
+[1]:(/files/businesses/authorised-verifiers-list.pdf)
+
