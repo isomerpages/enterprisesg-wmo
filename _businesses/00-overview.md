@@ -3,7 +3,7 @@ title: Overview
 permalink: /businesses/overview
 ---
 
-## Be a responsible trader
+## Be A Responsible Trader
 
 Traders have the responsibility to ensure that all weighing and measuring instruments used are type approved, registered with the Weights and Measures Office, and thereafter verified by Authorised Verifiers. In addition, the net contents of pre-packaged goods must not be less than the quantity stated on the  package  or  label.
 
