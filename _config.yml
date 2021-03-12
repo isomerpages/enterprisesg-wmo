@@ -27,6 +27,8 @@ collections:
     output: true
   news-and-media:
     output: true
+  faq:
+    output: true   
     
 resources_name: news-and-media
 
