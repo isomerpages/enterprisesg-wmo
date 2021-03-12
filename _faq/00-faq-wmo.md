@@ -42,7 +42,7 @@ This is to ensure that new or repaired weighing or measuring instruments meet th
 
 **7. How do I do register weighing and measuring instruments for trade use?**
 
-An applicant wishing to seek approval and registration for a weighing or measuring instrument for trade use has to submit the following documents to WMO via the link [here][1]{:target="_blank"}.
+An applicant wishing to seek approval and registration for a weighing or measuring instrument for trade use has to submit the following documents to WMO via the link [here][2]{:target="_blank"}.
  
 * OIML Certificate of Approval or Pattern Evaluation Certificate – to attest that the pattern of the weighing or measuring instrument is suitable for trade use. 
 * Test Report – attached together with the pattern approval certificate. 
@@ -53,7 +53,7 @@ An applicant wishing to seek approval and registration for a weighing or measuri
 
 Only registered weighing and measuring instruments are allowed to be used for trade purposes in Singapore.
 
-[1]:https://cpsa.enterprisesg.gov.sg/totalagility/forms/cpssite/PublicTermsAndCondition.form?STR_FORM=PatternRegistration%20Submit.form
+[2]:https://cpsa.enterprisesg.gov.sg/totalagility/forms/cpssite/PublicTermsAndCondition.form?STR_FORM=PatternRegistration%20Submit.form
 
 **8. How long is the registration process?**
  
