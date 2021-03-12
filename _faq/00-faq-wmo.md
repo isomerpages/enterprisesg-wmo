@@ -42,7 +42,7 @@ This is to ensure that new or repaired weighing or measuring instruments meet th
 
 **7. How do I do register weighing and measuring instruments for trade use?**
 
-An applicant wishing to seek approval and registration for a weighing or measuring instrument for trade use has to submit the following documents to WMO via the link here.
+An applicant wishing to seek approval and registration for a weighing or measuring instrument for trade use has to submit the following documents to WMO via the link [here][1]{:target="_blank"}.
  
 * OIML Certificate of Approval or Pattern Evaluation Certificate – to attest that the pattern of the weighing or measuring instrument is suitable for trade use. 
 * Test Report – attached together with the pattern approval certificate. 
@@ -52,3 +52,51 @@ An applicant wishing to seek approval and registration for a weighing or measuri
 * User’s Instruction Manual with safety and calibration/adjustment instructions. 
 
 Only registered weighing and measuring instruments are allowed to be used for trade purposes in Singapore.
+
+[1]:(https://cpsa.enterprisesg.gov.sg/totalagility/forms/cpssite/PublicTermsAndCondition.form?STR_FORM=PatternRegistration%20Submit.form)
+
+**8. How long is the registration process?**
+ 
+Registration generally takes one month. 
+
+**9. How often should we have our weighing or measuring instrument re-verified?**
+
+You are encouraged to send your weighing or measuring instrument for re-verification every year or whenever the instrument is not working properly. A verification seal and ACCURACY Label would be affixed on the verified instrument. The ACCURACY Label is valid for a period of 12 months immediately following the month in which it is affixed. 
+
+Please note that it is an offence if the verification seal on the instrument is found to be tampered with. If the verification seal is found broken, you are required to send your instruments for reverification immediately. 
+
+**10. Can the AVs break the verification seal of oil dispensing pumps during servicing? Also, can the same pump with the broken seal be used for trade (without locking up the pump), until the AVs verify the pump on the actual verification and stamping date?**
+ 
+Only the AVs are allowed to break the seal for the purpose of carrying out servicing and adjusting the pump. 
+
+However, the same pump cannot be used for trade unless it is locked. It must be kept locked until it has been verified accurate by the AV. This ensures that the instrument remains accurate and assures customers that it has not been tampered with. 
+
+If the pump is found accurate during verification, all adjustable parts of the pump will be sealed during the stamping of the pump. Thereafter, the pump can be used for trade. 
+
+**11. Do packing factories need to have their weighing or measuring instruments verified?** 
+
+Only weighing or measuring instruments used to check the final products, specifically, products that are to be delivered to the stores, need to be verified. 
+
+**12. I have just purchased a product which I think is short-weight, probably because a faulty weighing or measuring instrument was used. Where can I file a report?**
+ 
+You can file a report with WMO and provide the following information: 
+* Date and time of incident 
+* Location of incident 
+* Product involved 
+* Quantity purchased 
+* Cost of product 
+* Complainant’s particulars, including contact number
+
+**13. Apart from the weighing and measuring instruments for trade use, where can I get my equipment/devices tested?** 
+
+You may wish to approach TUV SUD PSB Pte Ltd. They can be reached at 6778 7777 or email to <enquiries@tuv-sud-psb.sg>. 
+
+**14. Apart from the weighing and measuring instruments for trade use, where can I get my equipment/devices/reference weights calibrated?**
+
+You may wish to approach National Metrology Centre or NMC. They can be reached at 6279 1900 or email to <metrology@nmc.a-star.edu.sg>. 
+
+**15. How can I contact WMO?** 
+
+For more enquiries, please contact WMO at 1800 773 3163 or email to <consumerprotection@enterprisesg.gov.sg>. Alternatively, please visit our website at <https://www.wmo.gov.sg>.
+
+
