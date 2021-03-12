@@ -18,4 +18,4 @@ links:
   - title: Contact us
     url: /contact-us/
   - title: FAQ
-    url: /faq/
+    collection: faq
