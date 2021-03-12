@@ -19,6 +19,10 @@ Singapore, Wednesday, 9 January 2019
 
 5\. To ensure requirements under the Act are met, enforcement officers from Enterprise Singapore conduct checks throughout the year on weighing and measuring instruments used for trade. Enterprise Singapore takes a serious view on suppliers who do not comply with the requirements and will not hesitate to take legal action. Consumers can play their part by looking out for the ACCURACY label on the weighing and measuring instruments when purchasing goods that involves the use of these instruments. Consumers with information on suppliers using weighing and measuring instruments that do not comply with requirements under the Act can contact Enterprise Singapore at consumerprotection@enterprisesg.gov.sg.
 
+1. xxx
+  a. xxx
+  b. xxx
+  c. xxx
 
 For media enquiries, please contact:\
 Ms Seah Yi Jing\
