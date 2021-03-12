@@ -22,6 +22,6 @@ Singapore, Wednesday, 9 January 2019
 6\. Consumers who purchased fuel from OMS Marine between January 2016 and January 2018<sup>2</sup> should seek redress from the supplier with proof of purchase. If consumers are unable to do so, they may approach the Consumers Association of Singapore (CASE) for assistance at its hotline +65 6100 0315 or <https://www.case.org.sg>.
 
 <sup>1</sup> Authorised Verifiers are appointed by Enterprise Singapore to perform verification of weighing and measuring instruments used for trade purposes. For a list of designated Authorised Verifiers, click [here][1]{:target="_blank}
+[1]:/files/businesses/authorised-verifiers-list.pdf
 
 <sup>2</sup> *Time frame refers to the lapse in OMS Marine’s verification of its fuel dispensers. The company’s fuel dispensers were valid till December 2015 as these measuring instruments were last verified in January 2015. The company has since verified its measuring instruments in January 2018.*
-[1]:/files/businesses/authorised-verifiers-list.pdf
