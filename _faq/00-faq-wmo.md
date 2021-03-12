@@ -1,5 +1,5 @@
 ---
-title: FAQ
+title: FAQs on Weights and Measures Programme
 permalink: /faq/faq-wmo
 ---
 
