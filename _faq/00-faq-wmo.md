@@ -30,3 +30,25 @@ Your weighing or measuring instrument needs to be verified before it can be used
 
 [1]:(/files/businesses/authorised-verifiers-list.pdf)
 
+**5. Why is there a need to register the pattern of weighing and measuring instruments for trade use?**
+
+The pattern of a weighing and measuring instrument refers to the design of an instrument with all components affecting its measurement properties suitably specified. Such instruments must show proof that they have undergone various tests and are in compliance with the relevant international standards. This is to ensure that the instruments can maintain their accuracy under different climatic and operating conditions.
+
+By registering the pattern of the weighing and measuring instrument, it ensures that no substandard design of weighing and measuring instruments for trade use are used in Singapore.
+
+**6. Why must weighing and measuring instruments be passed as fit for trade use?**
+
+This is to ensure that new or repaired weighing or measuring instruments meet the required maximum permissible error (MPE) before they can be used for trade. Consumers should look out for a verification seal and the ACCURACY Label as proof that they are fit for trade use. If the instrument is subsequently repaired, it should be adjusted for accuracy and verified following the repair. 
+
+**7. How do I do register weighing and measuring instruments for trade use?**
+
+An applicant wishing to seek approval and registration for a weighing or measuring instrument for trade use has to submit the following documents to WMO via the link here.
+ 
+* OIML Certificate of Approval or Pattern Evaluation Certificate – to attest that the pattern of the weighing or measuring instrument is suitable for trade use. 
+* Test Report – attached together with the pattern approval certificate. 
+* Circuit Diagram with key components part list. 
+* Photographs – one external view, one with rating label and one internal view with key components. 
+* Diagrams and/or photographs of the weights and measures sealing provision 
+* User’s Instruction Manual with safety and calibration/adjustment instructions. 
+
+Only registered weighing and measuring instruments are allowed to be used for trade purposes in Singapore.
