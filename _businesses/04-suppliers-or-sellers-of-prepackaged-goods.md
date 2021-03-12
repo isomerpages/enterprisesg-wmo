@@ -2,9 +2,11 @@
 title: Suppliers or Sellers of Pre-packaged Goods
 permalink: /conformity-assessment-body/suppliers-or-sellers-of-prepackaged-goods
 ---
-### For Manufacturers and/or Packers, Importers and/or Distributors, and Retailers of Pre-packaged Goods 
+### For Manufacturers and/or Packers, Importers and/or Distributors, and Retailers of Pre-packaged Goods
 
-It is an offence to supply or sell pre-packaged goods (PPGs) with net content less than the quantity stated on the package or label. Suppliers and/or retailers should have their own system or measures in place to ensure net content of the PPGs is as per stated on the package or label.
+A pre-packaged good (PPG) is a commodity that is enclosed in a container or wrapped in any manner, for which its quantity has been determined and indicated on its label prior to being offered for sale.
+
+It is an offence to supply or sell PPGs with net content less than the quantity stated on the package or label. Suppliers and/or retailers should have their own system or measures in place to ensure net content of the PPGs is as per stated on the package or label.
 
 **Metric system of measurement**
 
