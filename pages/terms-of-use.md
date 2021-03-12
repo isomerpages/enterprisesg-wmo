@@ -5,7 +5,7 @@ permalink: /terms-of-use/
 
 
 #### 1. Agreement - Terms  
-All access to any area of our websiteare governed by the terms and conditions below ("Terms"). If you are not comfortable with any of these Terms, we would advise you to exit. Please continue only if you can accept these Terms.  In these Terms, the words "we", "our" and "us" refers to Singapore Accreditation Council.
+All access to any area of our websiteare governed by the terms and conditions below ("Terms"). If you are not comfortable with any of these Terms, we would advise you to exit. Please continue only if you can accept these Terms.  In these Terms, the words "we", "our" and "us" refers to Weights and Measures Office.
 
 #### 2. Access To WMO  
 The accessibility and operation of our website rely on technologies outside our control. We are not able to guarantee continuous accessibility or uninterrupted operation of our website.
