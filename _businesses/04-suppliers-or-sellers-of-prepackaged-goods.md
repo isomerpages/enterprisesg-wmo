@@ -27,6 +27,6 @@ A sampled batch would fulfil the AQS if,
 2. The number of non-standard pre-packages sampled from an sample batch does not exceed the tolerable deficiency; and
 3. No pre-packaged goods shall have its net contents exceeding twice the tolerable deficiency from its stated quantity.
 
-For more information on PPGs and AQS, please refer to Chapter 5 of the [Singapore Weights and Measures Programme Information Booklet][1]{:target="_blank"}.
+For more information on PPGs and AQS, please refer to Chapter 5 of the [Singapore Weights and Measures Programme Information Booklet][2]{:target="_blank"}.
 
-[1]:/files/businesses/wmo_info_booklet.pdf
+[2]:/files/businesses/wmo_info_booklet.pdf
