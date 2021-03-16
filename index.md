@@ -11,7 +11,7 @@ sections:
         subtitle: <h3>Ensure accuracy in daily transactions<h3>
         background: /images/weights-measures-banner.png
         key_highlights:
-            - title: Registered Weights and Measuring Instruments
+            - title: Registered Weighing and Measuring Instruments
               description: Verify if the instrument has a valid Accuracy Label
               url: https://cpsa.enterprisesg.gov.sg/totalagility/forms/custom/publicsite/login.html
             - title: Register New Weighing and Measuring Instruments 
