@@ -14,7 +14,7 @@ Suppliers and/or retailers should also ensure the net content of the pre-package
 
 [1]:https://sso.agc.gov.sg/Act/WMA1975
 
-|Measurement by:|Weight|Volume|length|
+|Measurement by:|Weight|Volume|Length|
 --- | --- | --- | --- 
 | Metric units: | Kilogram, Gram, Milligram, Carat (metric) | Litre, Millitre | Kilometre, Metre, Centimetre, Millimetre
 
