@@ -29,7 +29,7 @@ sections:
         image: /images/weighing-balance-cheese.jpg
         alt: image of weighing balance
     - resources:
-        title: News & Media
+        title: News and Media
         subtitle:
         button: View More
 ---
