@@ -1,5 +1,5 @@
 ---
-title: What is the ACCURACY label?
+title: What is the ACCURACY Label?
 permalink: /consumers/what-is-the-ACCURACY Label
 ---
 
