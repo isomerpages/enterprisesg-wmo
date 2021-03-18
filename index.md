@@ -2,7 +2,7 @@
 layout: homepage
 title: Weights and Measures Office
 description: Brief site description here
-image: /images/about/wmo-hi-res.png
+image: /images/about/wmo-hi-res.svg
 permalink: /
 notification: As of 1 May 2020, the Weights & Measures (Fees) regulations have been revised to reflect the lowered costs of verifying weighing and measuring instruments. To learn more, click <a href= "/news-and-media/circulars/changes-to-the-weights-and-measures-fee"> here</a>.
 sections:
