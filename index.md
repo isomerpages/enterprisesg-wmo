@@ -11,9 +11,9 @@ sections:
         subtitle: <h3>Ensure accuracy in daily transactions<h3>
         background: /images/weights-measures-banner.png
         key_highlights:
-            - title: Registered Weighing and Measuring Instruments
-              description: Verify if the instrument has a valid Accuracy Label
-              url: https://cpsa.enterprisesg.gov.sg/totalagility/forms/custom/publicsite/login.html
+            - title: TIPS FOR CONSUMERS
+              description: Check that you get what you paid for
+              url: /consumers/what-is-the-ACCURACY Label
             - title: Register New Weighing and Measuring Instruments 
               url: https://cpsa.enterprisesg.gov.sg/totalagility/forms/cpssite/PublicTermsAndCondition.form?STR_FORM=PatternRegistration%20Submit.form
             - title: Apply as Authorised Verifiers 
