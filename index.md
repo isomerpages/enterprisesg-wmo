@@ -14,11 +14,12 @@ sections:
             - title: TIPS FOR CONSUMERS
               description: Check that you get what you paid for
               url: /consumers/what-is-the-ACCURACY Label
-            - title: RESPONSIBILITIES OF TRADERS
+            - title: YOUR RESPONSIBILITIES AS A TRADER
+              description: Click here to find out more
               url: /businesses/overview
-            - title: USEFUL INFO FOR USERS OF WEIGHING AND MEASURING INSTRUMENTS
+            - title: INFO FOR USERS OF WEIGHING AND MEASURING INSTRUMENTS
               url: /businesses/users-of-weighing-and-measuring-instruments-for-trade-use
-            - title: USEFUL INFO FOR SUPPLIERS OR SELLERS OF PRE-PACKAGED GOODS
+            - title: INFO FOR SUPPLIERS OR SELLERS OF PRE-PACKAGED GOODS
               url: /businesses/suppliers-or-sellers-of-prepackaged-goods
     - infopic:
         title: Find Out More About the Weights And Measures Programme
