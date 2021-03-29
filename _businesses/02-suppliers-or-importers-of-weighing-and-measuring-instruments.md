@@ -4,9 +4,9 @@ permalink: /businesses/suppliers-or-importers-of-weighing-and-measuring-instrume
 ---
 ### For suppliers or importers of weighing and measuring instruments 
 
-Weighing or measuring instruments used for trade in Singapore need to have its pattern or type approved. Examples of such instruments may be found in the Singapore Weights and Measures Programme information booklet.
+Weighing or measuring instruments used for trade in Singapore must have their pattern or type registered with the Weights and Measures Office before they can be used in Singapore. Examples of such instruments may be found in the Singapore Weights and Measures Programme information booklet.
  
-The pattern of a weighing and measuring instrument refers to the design of an instrument with all components affecting its measurement properties suitably specified. Such instruments must show proof that they have undergone various tests and are in compliance with the relevant international standards. This is to ensure that the instruments can maintain their accuracy under different climatic and operating conditions. 
+The pattern of a weighing and measuring instrument refers to the design of an instrument with all components affecting its measurement properties suitably specified. Suppliers of weighing and measuring instruments to be used for trade in Singapore, must show proof that their instruments have undergone various tests and are in compliance with the relevant international standards, to attest that the instruments can maintain their accuracy under different types of operating conditions. 
 
 By registering the pattern of the weighing and measuring instrument, it ensures that no substandard design of weighing and measuring instruments for trade use are used in Singapore.
 
