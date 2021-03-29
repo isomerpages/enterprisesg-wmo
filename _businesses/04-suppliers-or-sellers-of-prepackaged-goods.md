@@ -1,6 +1,6 @@
 ---
 title: Suppliers or Sellers of Pre-packaged Goods
-permalink: /conformity-assessment-body/suppliers-or-sellers-of-prepackaged-goods
+permalink: /businesses/suppliers-or-sellers-of-prepackaged-goods
 ---
 ### For Manufacturers and/or Packers, Importers and/or Distributors, and Retailers of Pre-packaged Goods
 
