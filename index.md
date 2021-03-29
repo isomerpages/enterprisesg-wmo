@@ -14,12 +14,12 @@ sections:
             - title: TIPS FOR CONSUMERS
               description: Check that you get what you paid for
               url: /consumers/what-is-the-ACCURACY Label
-            - title: Register New Weighing and Measuring Instruments 
-              url: https://cpsa.enterprisesg.gov.sg/totalagility/forms/cpssite/PublicTermsAndCondition.form?STR_FORM=PatternRegistration%20Submit.form
-            - title: Apply as Authorised Verifiers 
-              url: https://www.enterprisesg.gov.sg/-/media/esg/files/quality-and-standards/consumer-protection/for-suppliers/weights-and-measures/appln_for_designation_as_av.pdf?la=en
-            - title: Apply as Recognised Testing Laboratories (Flowmeter)
-              url: https://cpsa.enterprisesg.gov.sg/totalagility/forms/cpssite/PublicTermsAndCondition.form?STR_FORM=DesnApplicationWMPRTL.form%3FAT%3D1
+            - title: RESPONSIBILITIES OF TRADERS
+              url: /businesses/overview
+            - title: USEFUL INFO FOR USERS OF WEIGHING AND MEASURING INSTRUMENTS
+              url: /businesses/users-of-weighing-and-measuring-instruments-for-trade-use
+            - title: USEFUL INFO FOR SUPPLIERS OR SELLERS OF PRE-PACKAGED GOODS
+              url: /businesses/suppliers-or-sellers-of-prepackaged-goods
     - infopic:
         title: Find Out More About the Weights And Measures Programme
         subtitle: 
