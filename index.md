@@ -17,9 +17,11 @@ sections:
             - title: YOUR RESPONSIBILITIES AS A TRADER
               description: Click here to find out more
               url: /businesses/overview
-            - title: INFO FOR USERS OF WEIGHING AND MEASURING INSTRUMENTS
+            - title: FOR USERS OF WEIGHING AND MEASURING INSTRUMENTS
+              description: Useful information for users
               url: /businesses/users-of-weighing-and-measuring-instruments-for-trade-use
-            - title: INFO FOR SUPPLIERS OR SELLERS OF PRE-PACKAGED GOODS
+            - title: FOR SUPPLIERS OR SELLERS OF PRE-PACKAGED GOODS
+              description: Useful information for suppliers and sellers
               url: /businesses/suppliers-or-sellers-of-prepackaged-goods
     - infopic:
         title: Find Out More About the Weights And Measures Programme
