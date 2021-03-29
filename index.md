@@ -23,7 +23,7 @@ sections:
     - infopic:
         title: Find Out More About the Weights And Measures Programme
         subtitle: 
-        description: Traders must comply with the Weights and Measures Act to ensure accurate transactions and give consumers peace of mind knowing that they get what they pay for.
+        description: Businesses that use weighing or measuring Instruments for trade use must comply with the Weights and Measures Act to ensure accurate transactions and give consumers peace of mind knowing that they get what they pay for.
         button: Learn More
         url: /businesses/overview
         image: /images/weighing-balance-cheese.jpg
