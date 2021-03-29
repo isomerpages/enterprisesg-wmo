@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Weights and Measures Office
-description: Brief site description here
+description: Visit our website to discover how weighing and measuring instruments and net content of pre-packaged goods are regulated in Singapore.
 image: /images/about/wmo-hi-res.svg
 permalink: /
 notification: As of 1 May 2020, the Weights & Measures (Fees) regulations have been revised to reflect the lowered costs of verifying weighing and measuring instruments. To learn more, click <a href= "/news-and-media/circulars/changes-to-the-weights-and-measures-fee"> here</a>.
