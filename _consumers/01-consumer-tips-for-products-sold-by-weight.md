@@ -19,7 +19,7 @@ permalink: /consumers/consumer-tips-for-products-sold-by-weight
 
 | ![illustration-01](/images/Consumers/illustration-01.jpg) | ![blank](images/about/blank.png) | ![blank](images/about/blank.png)  
 
-- Check goods with torn or tampered packaging to ensure net quantity is not less than that stated on the label
+- Check goods with torn or tampered packaging to ensure net quantity is not less than that stated on the label.
 - The label should state the net content of the product using the metric unit system for example, kilogram (kg) for weight measurement.
 - Check the weight of the product on a weighing scale if you are doubtful of what is stated on the label.
 
@@ -27,6 +27,6 @@ permalink: /consumers/consumer-tips-for-products-sold-by-weight
 
 | ![illustration-03](/images/Consumers/illustration-03.jpg) | ![blank](images/about/blank.png) | ![blank](images/about/blank.png) 
 
-- Ensure the price and volume electronic display indicates ‘zero’ before dispensing fuel
+- Ensure the price and volume electronic display indicates ‘zero’ before dispensing fuel.
 - Look out for any fuel leak before dispensing. Alert the station manager immediately if a leak is observed.
 - Ensure the total price paid tally with the amount of fuel.
