@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Weights and Measures Office
+agency_name: the Weights and Measures Office
 locations:
   - title: Address
     address:
