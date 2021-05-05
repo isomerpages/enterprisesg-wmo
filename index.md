@@ -7,8 +7,8 @@ permalink: /
 notification: As of 1 May 2020, the Weights & Measures (Fees) regulations have been revised to reflect the lowered costs of verifying weighing and measuring instruments. To learn more, click <a href= "/news-and-media/circulars/changes-to-the-weights-and-measures-fee"> here</a>.
 sections:
     - hero:
-        title: <h1>Weights and Measures Office<h1>
-        subtitle: <h3>Ensure accuracy in daily transactions<h3>
+        title: <h1>Weights and Measures<h1>
+        subtitle: <h3>Ensuring accuracy in daily transactions<h3>
         background: /images/weights-measures-banner.png
         key_highlights:
             - title: TIPS FOR CONSUMERS
