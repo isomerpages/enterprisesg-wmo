@@ -2,6 +2,7 @@
 title: The Accuracy Label
 permalink: /about-us/weights-and-measures-programme/the-accuracy-label
 third_nav_title: Weights and Measures Programme
+published: false
 ---
 ## About the ACCURACY Label
 
