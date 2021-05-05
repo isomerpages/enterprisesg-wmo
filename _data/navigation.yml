@@ -7,14 +7,14 @@
 logo: /images/about/wmo-hi-res.png
 
 links:
-  - title: About Us
-    collection: about-us
-  - title: Businesses
+  - title: For Businesses
     collection: businesses
-  - title: Consumers
+  - title: For Consumers
     collection: consumers
   - title: News and Media
     resource_room: true
+  - title: About
+    collection: about-us    
   - title: Contact us
     url: /contact-us/
  
