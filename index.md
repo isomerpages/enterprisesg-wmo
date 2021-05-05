@@ -13,7 +13,7 @@ sections:
         key_highlights:
             - title: Your responsibilities as a trader
               description: Ensure that the instruments you use are registered and verified to be accurate
-              url: /businesses/suppliers-or-importers-of-weighing-and-measuring-instruments
+              url: /businesses/overview
             - title: Selling or supplying pre-packaged goods (PPGs)
               description: Ensure the net content of your PPGs is as per stated on the package or label
               url: /businesses/suppliers-or-sellers-of-prepackaged-goods
