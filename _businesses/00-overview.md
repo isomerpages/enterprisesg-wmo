@@ -3,7 +3,7 @@ title: Overview
 permalink: /businesses/overview
 ---
 
-## Be A Responsible Trader
+## Be a responsible trader
 
 Businesses that utilise weighing and measuring instruments for trade have the responsibility to ensure that the instruments you sell are type approved, registered with the Weights and Measures Office, and thereafter verified to be fit for trade by Authorised Verifiers. In addition, the net contents of pre-packaged goods that you are selling must not be less than the quantity stated on the  package  or  label.
 
