@@ -11,24 +11,21 @@ sections:
         subtitle: <h3>Ensuring accuracy in daily transactions<h3>
         background: /images/weights-measures-banner.png
         key_highlights:
-            - title: TIPS FOR CONSUMERS
-              description: Check that you get what you paid for
-              url: /consumers/what-is-the-ACCURACY Label
-            - title: YOUR RESPONSIBILITIES AS A TRADER
-              description: Click here to find out more
+            - title: Your responsibilities as a trader
+              description: Ensure that the instruments you use / sell are registered with the Weights and Measures Office and fit for trade use.
               url: /businesses/overview
-            - title: FOR USERS OF WEIGHING AND MEASURING INSTRUMENTS
-              description: Useful information for users
-              url: /businesses/users-of-weighing-and-measuring-instruments-for-trade-use
-            - title: FOR SUPPLIERS OR SELLERS OF PRE-PACKAGED GOODS
-              description: Useful information for suppliers and sellers
+            - title: Selling or supplying pre-packaged goods (PPGs)
+              description: Ensure the net content of your PPGs is as per stated on the package or label.
               url: /businesses/suppliers-or-sellers-of-prepackaged-goods
+            - title: Register to be an Authorised Verifier
+              description: Qualified companies are allowed to carry out the verification of weighing and measuring instruments for trade use.
+              url: /businesses/authorised-verifiers-and-recognised-testing-laboratories
     - infopic:
-        title: Find Out More About the Weights And Measures Programme
+        title: Tips for consumers when buying products sold by weight
         subtitle: 
-        description: Businesses that use weighing or measuring Instruments for trade use must comply with the Weights and Measures Act to ensure accurate transactions and give consumers peace of mind knowing that they get what they pay for.
+        description: Check that you receive the correct quantity when purchasing good sold by weight.
         button: Learn More
-        url: /businesses/overview
+        url: /consumers/what-is-the-ACCURACY Label
         image: /images/weighing-balance-cheese.jpg
         alt: image of weighing balance
     - resources:
