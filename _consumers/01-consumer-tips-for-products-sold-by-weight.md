@@ -1,5 +1,5 @@
 ---
-title: Consumer Tips For Products Sold By Weight
+title: Consumer tips for products sold by weight
 permalink: /consumers/consumer-tips-for-products-sold-by-weight
 ---
 
