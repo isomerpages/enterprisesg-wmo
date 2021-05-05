@@ -22,4 +22,4 @@ For further information, please refer to the respective sections relevant to you
 - [Users of weighing and measuring instruments for trade use](/businesses/users-of-weighing-and-measuring-instruments-for-trade-use)
 - [Suppliers or importers of weighing and measuring instruments](/businesses/suppliers-or-importers-of-weighing-and-measuring-instruments)
 - [Authorised Verifiers and Recognised Testing Laboratories (Flowmeter)](/businesses/authorised-verifiers-and-recognised-testing-laboratories)
-- [Suppliers or sellers of pre-packaged goods](/conformity-assessment-body/suppliers-or-sellers-of-prepackaged-goods)
+- [Suppliers or sellers of pre-packaged goods](/businesses/suppliers-or-sellers-of-prepackaged-goods)
