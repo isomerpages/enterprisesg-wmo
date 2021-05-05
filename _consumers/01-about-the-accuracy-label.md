@@ -1,9 +1,9 @@
 ---
-title: What is the ACCURACY Label?
-permalink: /consumers/what-is-the-ACCURACY Label
+title: About the Accuracy Label
+permalink: /consumers/about-the-ACCURACY Label
 ---
 
-### What is the ACCURACY Label?
+### About the Accuracy Label
 
 | ![accuracy label](/images/about/accuracy_label.jpg) | ![blank2](images/about/blank2.png)| ![blank1](images/about/blank1.png) | ![blank1](images/about/blank1.png)
 
