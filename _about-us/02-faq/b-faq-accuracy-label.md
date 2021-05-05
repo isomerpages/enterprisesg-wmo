@@ -1,10 +1,10 @@
 ---
-title: FAQs on ACCURACY label
+title: Frequently Asked Questions on ACCURACY label
 permalink: /about-us/faq/faq-accuracy-label
 third_nav_title: FAQ
 ---
 
-### Frequently Asked Questions 
+### Frequently Asked Questions on ACCURACY label
 
 **1. What is the ACCURACY Label?**
  
@@ -40,4 +40,4 @@ Every ACCURACY Label affixed to a weighing or measuring instrument is valid for 
 
 **8. I have a new weighing or measuring instrument that was verified fit for trade use and affixed with the ACCURACY Label. If I plan to sell it in a few months or a year later, do I need to have the weighing or measuring instrument re-verified and affixed with the latest ACCURACY Label?**
  
-The ‘brand new’ verified instrument which has been affixed with the ACCURACY Label can still be used for trade. Do note that the ACCURACY Label is valid for 12 months immediately following the month which is affixed. Should the ACCURACY Label lapse, please submit the instrument to a relevant Authorised Verifier.
+The ‘brand new’ verified instrument which has been affixed with the ACCURACY Label can still be used for trade. Do note that the ACCURACY Label is valid for 12 months immediately following the month which is affixed. Should the ACCURACY Label lapse, please submit the instrument to a relevant Authorised Verifier. 
