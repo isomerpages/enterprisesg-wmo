@@ -25,7 +25,7 @@ sections:
         subtitle: 
         description: Check that you receive the correct quantity when purchasing good sold by weight.
         button: Learn More
-        url: /consumers/what-is-the-ACCURACY Label
+        url: /consumers/consumer-tips-for-products-sold-by-weight
         image: /images/weighing-balance-cheese.jpg
         alt: image of weighing balance
     - resources:
