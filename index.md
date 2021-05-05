@@ -12,13 +12,13 @@ sections:
         background: /images/weights-measures-banner.png
         key_highlights:
             - title: Your responsibilities as a trader
-              description: Ensure that the instruments you use are registered and verified to be accurate.
+              description: Ensure that the instruments you use are registered and verified to be accurate
               url: /businesses/suppliers-or-importers-of-weighing-and-measuring-instruments
             - title: Selling or supplying pre-packaged goods (PPGs)
-              description: Ensure the net content of your PPGs is as per stated on the package or label.
+              description: Ensure the net content of your PPGs is as per stated on the package or label
               url: /businesses/suppliers-or-sellers-of-prepackaged-goods
             - title: Register to be an Authorised Verifier
-              description: Qualified companies are allowed to carry out the verification of weighing and measuring instruments for trade use.
+              description: Qualified companies are allowed to carry out the verification of weighing and measuring instruments for trade use
               url: /businesses/authorised-verifiers-and-recognised-testing-laboratories
     - infopic:
         title: Tips for consumers when buying products sold by weight
