@@ -1,8 +1,8 @@
 ---
-title: Suppliers or Sellers of Pre-packaged Goods
+title: Suppliers or sellers of pre-packaged goods
 permalink: /businesses/suppliers-or-sellers-of-prepackaged-goods
 ---
-### For Manufacturers and/or Packers, Importers and/or Distributors, and Retailers of Pre-packaged Goods
+### For manufacturers and/or packers, importers and/or distributors, and retailers of pre-packaged goods
 
 A pre-packaged good (PPG) is a commodity that is enclosed in a container or wrapped in any manner, for which its quantity has been determined and indicated on its label prior to being offered for sale.
 
