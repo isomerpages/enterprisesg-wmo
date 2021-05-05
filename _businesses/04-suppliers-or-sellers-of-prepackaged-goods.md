@@ -6,7 +6,7 @@ permalink: /businesses/suppliers-or-sellers-of-prepackaged-goods
 
 A pre-packaged good (PPG) is a commodity that is enclosed in a container or wrapped in any manner, for which its quantity has been determined and indicated on its label prior to being offered for sale.
 
-It is an offence to supply or sell PPGs with net content less than the quantity stated on the package or label. Suppliers and/or retailers should have their own system or measures in place to ensure net content of the PPGs corresponds with what is stated on the package or label.
+It is an offence to supply or sell PPGs with net content less than the quantity stated on the package or label. Suppliers and/or retailers should have your own system or measures in place to ensure net content of the PPGs corresponds with what is stated on the package or label.
 
 **Metric system of units**
 
