@@ -12,8 +12,8 @@ sections:
         background: /images/weights-measures-banner.png
         key_highlights:
             - title: Your responsibilities as a trader
-              description: Ensure that the instruments you use / sell are registered with the Weights and Measures Office and fit for trade use.
-              url: /businesses/overview
+              description: Ensure that the instruments you supply are registered with the Weights and Measures Office and fit for trade use.
+              url: /businesses/suppliers-or-importers-of-weighing-and-measuring-instruments
             - title: Selling or supplying pre-packaged goods (PPGs)
               description: Ensure the net content of your PPGs is as per stated on the package or label.
               url: /businesses/suppliers-or-sellers-of-prepackaged-goods
