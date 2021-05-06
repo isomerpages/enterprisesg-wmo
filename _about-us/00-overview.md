@@ -4,7 +4,12 @@ permalink: /about-us/overview
 ---
 
 ## About the Weights and Measures Office
-The Weights and Measures Office (WMO) implements the Weights and Measures Act to ensure a uniform and accurate system of weights and measures in Singapore. Weighing and measuring instruments used for trade are required to be checked and verified for accuracy in accordance to international standards. The net quantity of pre-packaged goods is also monitored by the WMO to assure the accuracy of the declared net quantity stated in products or product labels. The WMO is overseen by Enterprise Singapore.  
+The Weights and Measures Office (WMO) safeguards both the interest of consumers and businesses by ensuring a uniform and accurate system of weights and measures in Singapore. 
+
+Under the Weights and Measures Act, weighing and measuring instruments used for trade must be registered in accordance to international standards, verified for accuracy, and affixed with the ACCURACY Label. The WMO monitors the net quantity of pre-packaged goods to ensure the declared net quantity stated in products or product labels are accurate. We also conduct market surveillance, inspections and investigations to ensure fair trade measurement practices are upheld. 
+
+The WMO is an office under Enterprise Singapore.  
+
 
 ### What we do?
 
