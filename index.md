@@ -26,7 +26,7 @@ sections:
         description: Check that you receive the correct quantity when purchasing good sold by weight.
         button: Learn More
         url: /consumers/consumer-tips-for-products-sold-by-weight
-        image: /images/about/shutterstock_1179279766 a.jpg
+        image: /images/about/shutterstock_55831138.jpg
         alt: image of weighing balance
     - resources:
         title: News and Media
