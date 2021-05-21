@@ -9,7 +9,7 @@ sections:
     - hero:
         title: <h1>Weights and Measures<h1>
         subtitle: <h3>Ensuring accuracy in daily transactions<h3>
-        background: /images/weights-measures-banner.png
+        background: /images/about/twodragons1920x720.jpg
         key_highlights:
             - title: Your responsibilities as a trader
               description: Ensure that the instruments you use are registered and verified to be accurate
@@ -26,7 +26,7 @@ sections:
         description: Check that you receive the correct quantity when purchasing good sold by weight.
         button: Learn More
         url: /consumers/consumer-tips-for-products-sold-by-weight
-        image: /images/weighing-balance-cheese.jpg
+        image: /images/about/shutterstock_55831138.jpg
         alt: image of weighing balance
     - resources:
         title: News and Media
