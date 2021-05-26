@@ -17,7 +17,7 @@ The Recognised Testing Laboratory (Flowmeter) Scheme for flowmeter laboratories 
 For more information on these schemes, refer to the links below.
 
 * [Authorised Verifier Scheme Information Booklet](/files/businesses/av_scheme_info_booklet.pdf){:target="_blank"}
-* [Singapore Weights and Measures Programme Information Booklet](/files/businesses/wmo_info_booklet.pdf){:target="_blank"}
+* [Singapore Weights and Measures Information Booklet](/files/businesses/wmo_info_booklet.pdf){:target="_blank"}
 * [Recognised Testing Laboratory (Flowmeter) Scheme Information Booklet](/files/businesses/rtl_info_booklet.pdf){:target="_blank"}
 * [Application for Designation as Authorised Verifier](/files/businesses/appln_for_designation_as_av.pdf){:target="_blank"}
 * [Apply to be a Recognised Testing Laboratory for the Recognised Testing Laboratory (Flowmeter) Scheme](https://cpsa.enterprisesg.gov.sg/totalagility/forms/cpssite/PublicTermsAndCondition.form?STR_FORM=DesnApplicationWMPRTL.form%3FAT%3D1){:target="_blank"}
