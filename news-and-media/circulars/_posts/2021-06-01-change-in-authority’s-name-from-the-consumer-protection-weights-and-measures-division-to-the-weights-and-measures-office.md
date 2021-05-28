@@ -24,3 +24,5 @@ For more information on the Weights and Measures Office, please visit our new we
 AVs may direct traders to our new website and remind them on our requirement to have their instrument verified and affixed with the ACCURACY Label by an AV before it can be used for trade purposes.
 
 For further enquiries, you may contact the WMO at 6898 1800 or email to <weightsandmeasures@enterprisesg.gov.sg>.
+
+[Change in authority’s name from the Consumer Protection, Weights and Measures Division, to the Weights and Measures Office](/news-and-media/circulars/wmo-circular-010621-00.pdf){:target="_blank"}
