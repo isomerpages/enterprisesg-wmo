@@ -7,7 +7,7 @@ permalink: /news-and-media/circulars/change-in-authority’s-name-from-the-consu
 Date: 01 June 2021\
 Our Ref: WMO-010621-00
 
-## Change in authority’s name from the Consumer Protection, Weights and Measures Division, to the Weights and Measures Office
+### Change in authority’s name from the Consumer Protection, Weights and Measures Division, to the Weights and Measures Office
 
 This circular is to inform Authorised Verifiers (AVs) and Recognised Testing Laboratories (RTLs) on the change in our office name.
 It is for noting and no further action is required.
