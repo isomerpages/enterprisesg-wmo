@@ -27,9 +27,9 @@ To ensure a uniform and accurate system of weights and measures in Singapore, we
 ### What must businesses do?
 Users, suppliers or importers of weighing and/or measuring instruments, as well as manufacturers and/or packers, importers and/or distributors, and retailers of pre-packaged goods must comply with the Weights and Measures Act to ensure accurate transactions and give consumers peace of mind knowing that they get what they pay for. 
 
-Find out more about [your role as a business](/businesses/overview){:target="_blank"}.
+Find out more about [your role as a business](/businesses/overview).
 
 ### What can consumers do?
 Consumers can play a role to ensure they receive the correct quantity when purchasing goods sold by weight. 
 
-Find out about [consumer tips for products sold by weight](/consumers/consumer-tips-for-products-sold-by-weight){:target="_blank"}.
+Find out about [consumer tips for products sold by weight](/consumers/consumer-tips-for-products-sold-by-weight).
