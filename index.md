@@ -11,11 +11,11 @@ sections:
         subtitle: <h3>Ensuring accuracy in daily transactions<h3>
         background: /images/about/twodragons1920x720.jpg
         key_highlights:
-            - title: Your responsibilities as a trader
+            - title: Be a responsible trader
               description: Ensure that the instruments you use are registered and verified to be accurate
               url: /businesses/overview
-            - title: Selling or supplying pre-packaged goods (PPGs)
-              description: Ensure the net content of your PPGs is as per stated on the package or label
+            - title: Sell or supply pre-packaged goods (PPGs)
+              description: Ensure the net content of your PPGs is accurately stated on the package or label
               url: /businesses/suppliers-or-sellers-of-prepackaged-goods
             - title: Register to be an Authorised Verifier
               description: Qualified companies are allowed to carry out the verification of weighing and measuring instruments for trade use
@@ -23,7 +23,7 @@ sections:
     - infopic:
         title: Tips for consumers when buying products sold by weight
         subtitle: 
-        description: Check that you receive the correct quantity when purchasing good sold by weight.
+        description: Check that you receive the correct quantity when purchasing goods sold by weight.
         button: Learn More
         url: /consumers/consumer-tips-for-products-sold-by-weight
         image: /images/about/shutterstock_1179279766 a.jpg
