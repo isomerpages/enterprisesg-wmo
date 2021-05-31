@@ -1,6 +1,6 @@
-title: Title
+title: Weights and Measures Office
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-favicon: /images/favicon-isomer.ico
+favicon: /images/about/wmo-hi-res.png
 
 # Site colors
 colors:
@@ -18,9 +18,22 @@ colors:
     - title: media-color-five
       color: '#00838f'
 
+collections:
+  about-us:
+    output: true
+  businesses:
+    output: true
+  consumers:
+    output: true
+  news-and-media:
+    output: true
+  faq:
+    output: true   
+    
+resources_name: news-and-media
 
-resources_name: example-resource
-
+future: true
+ 
 description: An Isomer site of the Singapore Government
 
 ##################################################################################################################

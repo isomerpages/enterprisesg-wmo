@@ -1,36 +1,36 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: Weights and Measures Office
+description: Learn more about the weights and measures regulations in Singapore.
+image: /images/about/wmo-hi-res.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: As of 1 May 2020, the Weights & Measures (Fees) regulations have been revised to reflect the lowered costs of verifying weighing and measuring instruments. To learn more, click <a href= "/news-and-media/circulars/changes-to-the-weights-and-measures-fee"> here</a>.
 sections:
     - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
+        title: 
+        subtitle: <h3>Ensuring accuracy in daily transactions<h3>
+        background: /images/about/twodragons1920x720.jpg
         key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+            - title: Be a responsible trader
+              description: Ensure that the instruments you use are registered and verified to be accurate
+              url: /businesses/overview
+            - title: Sell or supply pre-packaged goods (PPGs)
+              description: Ensure the net content of your PPGs is accurately stated on the package or label
+              url: /businesses/suppliers-or-sellers-of-prepackaged-goods
+            - title: Register to be an Authorised Verifier
+              description: Qualified companies are allowed to carry out the verification of weighing and measuring instruments for trade use
+              url: /businesses/authorised-verifiers-and-recognised-testing-laboratories
+    - infopic:
+        title: Tips for consumers when buying products sold by weight
+        subtitle: 
+        description: Check that you receive the correct quantity when purchasing goods sold by weight.
+        button: Learn More
+        url: /consumers/consumer-tips-for-products-sold-by-weight
+        image: /images/about/shutterstock_1179279766 a.jpg
+        alt: image of weighing balance
     - resources:
-        title: Media
-        subtitle: Learn more
+        title: News and Media
+        subtitle:
         button: View More
 ---
 

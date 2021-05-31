@@ -5,16 +5,29 @@
 @charset "utf-8";
 
 // Agency brand colors
-$primary: {{- site.colors.primary-color -}};
-$secondary: {{- site.colors.secondary-color -}};
-$secondary-hover: lighten($secondary, 10%);
+$primary: #E7131A; //Corporate Red
+$secondary: #E7131A; //Pantone 432C
+$secondary-hover: lighten($primary, 10%);
 
 {%- for media-color in site.colors.media-colors -%}
   ${{- media-color.title -}}: {{- media-color.color -}};
 {%- endfor -%}
 
+//shades of corporate red
+$media-color-one: #E7131A; 
+$media-color-two: #960019; 
+$media-color-three: #CA3433; 
+$media-color-four: #C00A32; 
+$media-color-five: #960019; 
+$media-color-six: #E7131A; 
+$media-color-seven: #CE5C5C; 
+$media-color-eight: #CA3433; 
+$media-color-nine: #C00A32; 
+$media-color-ten: #960019; 
+
 $gap: 32px !default;
 $desktop: 960px + (2 * $gap) !default;
+$tablet: 768px !default;
 
 // Mixins
 
@@ -255,6 +268,11 @@ $desktop: 960px + (2 * $gap) !default;
 
 // Post-content
 .content {
+	p {
+		@include desktop(){
+			text-align: justify;
+		}
+	}
 	h1, h2, h3, h4, h5 {
 		color: $secondary;
 		strong {
