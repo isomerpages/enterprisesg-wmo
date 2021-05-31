@@ -19,7 +19,7 @@ The change is to better reflect the Weights and Measures Office’s objective to
 
 There is **no change** to the design of the existing ACCURACY Label used by AVs. The current website <https://cpsa.enterprisesg.gov.sg> also **remains valid and accessible** to users. AVs may continue to access the site for submission of stamping reports purposes.
 
-Moving forward, any updates including new circulars on regulatory requirements will be made available on the WMO's website at <https://www.weightsandmeasures.gov.sg>. AVs and RTLs are encouraged to visit and bookmark our website for the latest information.
+New updates including circulars on regulatory requirements will be made available on the WMO's website. AVs and RTLs are encouraged to visit and bookmark our website for the latest information.
 
 AVs may direct traders to our new website and remind them on our requirement to have their instrument verified and affixed with the ACCURACY Label by an AV before it can be used for trade purposes.
 
