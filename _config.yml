@@ -32,6 +32,7 @@ collections:
     
 resources_name: news-and-media
 
+google_analytics: UA-198468316-2
 future: true
  
 description: An Isomer site of the Singapore Government
