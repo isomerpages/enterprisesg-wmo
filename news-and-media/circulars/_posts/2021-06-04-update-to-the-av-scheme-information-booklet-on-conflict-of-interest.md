@@ -4,8 +4,8 @@ title:  Update to the AV Scheme information booklet on conflict of interest
 permalink: /news-and-media/circulars/update-to-the-av-scheme-information-booklet-on-conflict-of-interest
 ---
 
-Date: 02 June 2021\
-Our Ref: WMO-040621-2
+Date: 04 June 2021\
+Our Ref: WMO-040621-01
 
 ### Update to the AV Scheme information booklet on conflict of interest
 
