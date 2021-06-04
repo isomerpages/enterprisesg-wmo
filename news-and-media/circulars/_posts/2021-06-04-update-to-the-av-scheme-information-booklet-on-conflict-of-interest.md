@@ -21,8 +21,7 @@ under this section for further details on what constitutes COI and the declarati
 - Appendix D – Terms and Conditions of appointment / re-appointment as AV has been updated to include provisions on COI. See paragraphs 7 to 10;
 - Appendix G – Conflict of Interest Declaration Form.
 
-This update provides further clarity on how the WMO manages COI for the purpose of AV designation. The update is also part of the WMO’s ongoing effort to improve on our AV Scheme framework to ensure a fair and transparent system of 
-weights and measures in Singapore. 
+This update provides further clarity on how the WMO manages COI for the purpose of AV designation. The update is also part of the WMO’s ongoing effort to improve on our AV Scheme framework to ensure a fair and transparent system of weights and measures in Singapore. 
 
 This update is effective from 04 June 2021. AVs due for AV re-designation from 04 June 2021 onwards will have to submit the completed Conflict of Interest 
 Declaration Form found in Appendix G of the AV Scheme booklet prior to their onsite audit. **Please refer to the Annex of this Circular for more information regarding 
