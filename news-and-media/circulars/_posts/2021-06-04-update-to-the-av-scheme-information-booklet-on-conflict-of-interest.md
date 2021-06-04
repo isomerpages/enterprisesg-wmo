@@ -33,7 +33,7 @@ June 2021 onwards.
 
 For further enquiries, you may write to <weightsandmeasures@enterprisesg.gov.sg>.
 
-[Update to the AV Scheme information booklet on conflict of interest](/news-and-media/circulars/wmo-circular-010621-01.pdf){:target="_blank"}
+[Update to the AV Scheme information booklet on conflict of interest](/news-and-media/circulars/wmo-circular-040621-01.pdf){:target="_blank"}
 
 
 
