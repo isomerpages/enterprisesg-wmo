@@ -3,3 +3,8 @@ collections:
     output: true
     order:
       - example-page/example-subpage.md
+collections:
+  example-collection:
+    output: false
+    order:
+      - example-page/example-subpage.md
