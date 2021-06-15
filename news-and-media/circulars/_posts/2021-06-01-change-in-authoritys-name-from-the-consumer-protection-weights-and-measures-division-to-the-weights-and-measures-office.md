@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Change in authority’s name from the Consumer Protection, Weights and Measures Division, to the Weights and Measures Office
+title:  'Change in authority’s name from the Consumer Protection, Weights and Measures Division, to the Weights and Measures Office'
 permalink: /news-and-media/circulars/change-in-authority’s-name-from-the-consumer-protection-weights-and-measures-division-to-the-weights-and-measures-office
 ---
 
