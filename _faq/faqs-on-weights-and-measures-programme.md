@@ -2,10 +2,9 @@
 title: FAQs on Weights and Measures Programme
 permalink: /faq/faq-wmo
 ---
-
 ### Frequently Asked Questions
 
-**1. What is the role of the Weights and Measures Office (WMO)?**
+**1. What is the role of the Weights and Measures Office (WMO)?**[Example Filename](/files/businesses/Receipt_AV31.pdf)
 
 The Weights and Measures Office (WMO) ensures that a uniform and accurate system of weights and measures is used in Singapore. With the system, consumers and traders are assured that they get what they pay for when buying goods that are weighed, measured or pre-packed. It also provides a correct measurement for excise tax computation for the Government.
 
@@ -98,5 +97,3 @@ You may wish to approach National Metrology Centre or NMC. They can be reached a
 **15. How can I contact WMO?** 
 
 For more enquiries, please contact WMO at 1800 773 3163 or email to <consumerprotection@enterprisesg.gov.sg>. Alternatively, please visit our website at <https://www.wmo.gov.sg>.
-
-
