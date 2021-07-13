@@ -2,7 +2,6 @@
 title: FAQs on Weights and Measures Programme
 permalink: /faq/faq-wmo
 ---
-
 ### Frequently Asked Questions
 
 **1. What is the role of the Weights and Measures Office (WMO)?**
@@ -98,5 +97,3 @@ You may wish to approach National Metrology Centre or NMC. They can be reached a
 **15. How can I contact WMO?** 
 
 For more enquiries, please contact WMO at 1800 773 3163 or email to <consumerprotection@enterprisesg.gov.sg>. Alternatively, please visit our website at <https://www.wmo.gov.sg>.
-
-

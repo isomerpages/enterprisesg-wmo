@@ -34,5 +34,5 @@ Any person utilising any prescribed instrument for trade must submit the instrum
 
 Businesses are reminded to ensure compliance with the regulatory requirements. Enterprise Singapore conducts routine inspections and any person who fails to comply with the requirements shall be guilty of an offence.
 
-[CHANGES TO THE WEIGHTS & MEASURES FEES](/news-and-media/circulars/circular-cw-wm-200501-2-weights-and-measures-fee.pdf){:target="_blank"}
+[CHANGES TO THE WEIGHTS & MEASURES FEES](/files/circulars/circular-cw-wm-200501-2-weights-and-measures-fee.pdf){:target="_blank"}
 

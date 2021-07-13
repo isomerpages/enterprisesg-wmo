@@ -4,7 +4,7 @@ title: Weights and Measures Office
 description: Learn more about the weights and measures regulations in Singapore.
 image: /images/about/wmo-hi-res.svg
 permalink: /
-notification: As of 1 May 2020, the Weights & Measures (Fees) regulations have been revised to reflect the lowered costs of verifying weighing and measuring instruments. To learn more, click <a href= "/news-and-media/circulars/changes-to-the-weights-and-measures-fee"> here</a>.
+notification: We have updated sections of the AV Scheme information booklet to clarify on requirements pertaining to conflicts of interest. This update is effective from 04 June 2021. To learn more, click <a href= "/news-and-media/circulars/update-to-the-av-scheme-information-booklet-on-conflict-of-interest"> here</a>.
 sections:
     - hero:
         title: 
