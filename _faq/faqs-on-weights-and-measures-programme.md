@@ -4,7 +4,7 @@ permalink: /faq/faq-wmo
 ---
 ### Frequently Asked Questions
 
-**1. What is the role of the Weights and Measures Office (WMO)?**[Example Filename](/files/businesses/Receipt_AV31.pdf)
+**1. What is the role of the Weights and Measures Office (WMO)?**[E](/files/businesses/Receipt_AV31.pdf)
 
 The Weights and Measures Office (WMO) ensures that a uniform and accurate system of weights and measures is used in Singapore. With the system, consumers and traders are assured that they get what they pay for when buying goods that are weighed, measured or pre-packed. It also provides a correct measurement for excise tax computation for the Government.
 
