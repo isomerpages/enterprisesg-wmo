@@ -6,10 +6,10 @@ image: /images/about/wmo-hi-res.svg
 permalink: /
 notification: Please be informed that a new CPSA+ system will be launched on 30
   November 2021 to replace the current <a href =
-  "https://cpsa.enterprisesg.gov.sg">CPSA</a>{:target="_blank"}. This will
-  involve some operational changes regarding your weighing and measuring
-  instruments used for trade from 18 Nov onwards. Your Authorised Verifier will
-  inform you accordingly on the changes.
+  "https://cpsa.enterprisesg.gov.sg">CPSA</a>. This will involve some
+  operational changes regarding your weighing and measuring instruments used for
+  trade from 18 Nov onwards. Your Authorised Verifier will inform you
+  accordingly on the changes.
 sections:
   - hero:
       subtitle: <h3>Ensuring accuracy in daily transactions<h3>
