@@ -41,7 +41,7 @@ This is to ensure that new or repaired weighing or measuring instruments meet th
 
 **7. How do I pattern register weighing and measuring instruments for trade use?**
 
-An applicant wishing to seek approval and registration for a weighing or measuring instrument for trade use has to submit the following documents to WMO via the link [here](https://www.go.gov.sg/pattern-registration){:target="_blank"}.
+An applicant wishing to seek approval and registration for a weighing or measuring instrument for trade use has to submit the following documents to WMO via the link [here](https://www.go.gov.sg/pattern-registration){:target="_blank"}
  
 * OIML Certificate of Approval or Pattern Evaluation Certificate – to attest that the pattern of the weighing or measuring instrument is suitable for trade use. 
 * Test Report – attached together with the pattern approval certificate. 
