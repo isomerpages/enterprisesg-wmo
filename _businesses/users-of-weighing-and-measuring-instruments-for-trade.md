@@ -46,7 +46,7 @@ Instrument owners can expect to receive the following notifications from CPSA+:
 
 You may find out more about the QR code label and registration of instruments in CPSA+ in Chapter 4.2 of the Weights and Measures Information Booklet.
 
-For more information on how to login to CPSA+ and access information about your registered instruments, click [here](https://www.cpsaplus.gov.sg) and refer to the CPSA+ guidebook for weighing and measuring instrument owners. 
+For more information on how to login to CPSA+ and access information about your registered instruments, click [here](https://www.cpsaplus.gov.sg){:target="_blank"} and refer to the CPSA+ guidebook for weighing and measuring instrument owners. 
 
 **Metric system of units**
 
