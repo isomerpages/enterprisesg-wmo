@@ -28,6 +28,12 @@ Effective 30 November 2021, weighing and measuring instruments used for trade wi
 
 ![wmo-qr-code-label](/images/al-and-qr-label.png)
 
+The first 2 digits of the identification number represent the year the instrument was registered in CPSA+. For example, if the instrument was registered by the AV in 2021, the unique identification number for the instrument would thus start with ‘21’ followed by its serialised number e.g., 21XXXXX.
+
+Unlike the Accuracy Label which is valid for 12 months, and has to be replaced prior to its expiry, the QR code label is meant to be permanent, and should only be changed by an AV if it is found damaged or missing from the registered instrument.
+
+By logging in to CPSA+ and updating your contact information, instrument owners can also receive notifications from CPSA+ about your instruments.
+
 **Metric system of units**
 
 Traders should also ensure that you use the metric system of units when transacting or advertising goods. For example, Kilogram for goods measured by weight, and Litre for goods measured by volume.
