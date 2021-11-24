@@ -44,7 +44,7 @@ Instrument owners can expect to receive the following notifications from CPSA+:
 * A reminder that there are instruments with lapsed ACCURACY Labels and to contact an AV for re-verification before they are used for trade
 * Replacement of Instrument ID for any of your registered instruments
 
-You may find out more about the QR code label and registration of instruments in CPSA+ in Chapter 4.2 of the Weights and Measures Information Booklet.
+You may find out more about the QR code label and registration of instruments in CPSA+ in [Chapter 4.2 of the Weights and Measures Information Booklet](/files/businesses/wmo_info_booklet.pdf){:target="_blank"}.
 
 For more information on how to login to CPSA+ and access information about your registered instruments, click [here](https://www.cpsaplus.gov.sg){:target="_blank"} and refer to the CPSA+ guidebook for weighing and measuring instrument owners. 
 
