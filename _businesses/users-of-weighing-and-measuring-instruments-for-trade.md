@@ -21,6 +21,7 @@ Please refer to **Appendix E** of the Weights and Measures Information Booklet b
 *<i><u>QR code label and registration of weighing and measuring instruments in CPSA+</u></i>*
 
 The CPSA+ is an application website where AVs can submit verification records, as well as where the public registry of pattern registered instruments, list of weighting and measuring instrument used for trade, list of designated AVs, etc. are hosted. 
+
 Instrument owners can also login to CPSA+ to view information related to the weighing and measuring instruments they use for trade, e.g. the verification status of the instrument, it’s operating location, etc. The instrument would first need to be registered in CPSA+ before this information will be viewable.  
 
 
