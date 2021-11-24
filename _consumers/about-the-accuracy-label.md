@@ -2,10 +2,11 @@
 title: About the Accuracy Label
 permalink: /consumers/about-the-ACCURACY Label
 ---
-
 ### About the Accuracy Label
 
 | ![accuracy label](/images/about/accuracy_label.jpg) | ![blank2](images/about/blank2.png)| ![blank1](images/about/blank1.png) | ![blank1](images/about/blank1.png)
+
+<img src="/images/accuracy-label-ver2021.png" alt="accuracy label" style="width:309px;height:137.5px;">
 
 All weighing or measuring instruments used for trade in Singapore need to be verified for accuracy annually by an Authorised Verifier to ensure that consumers get what they pay for. 
 
