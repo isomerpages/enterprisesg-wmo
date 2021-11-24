@@ -5,7 +5,7 @@ permalink: /businesses/users-of-weighing-and-measuring-instruments-for-trade-use
 ### For users of weighing and measuring instruments for trade use
 
 
-**Registration of weighing and measuring instruments**
+**Pattern registration of weighing and measuring instruments**
 
 Weighing or measuring instruments used for trade in Singapore need to have their pattern or type registered with the Weights and Measures Office, and verified by an Authorised Verifier to ensure the instrument’s accuracy and fit for trade use. Examples of such instruments may be found in the Singapore Weights and Measures information booklet. 
 
@@ -14,9 +14,13 @@ Please refer to **Appendix D** of the Weights and Measures Information Booklet b
 
 **Verification of weighing and measuring instruments**
 
-Under the Weights and Measures Act, it is an offence to use unregistered and/or unverified instruments for trade in Singapore. It is the user’s responsibility to ensure the instrument is verified, secured from tampering, and affixed with the Accuracy Label by an Authorised Verifier before using it for trade. 
+Under the Weights and Measures Act, it is an offence to use unregistered i.e., not pattern registered, and/or unverified instruments for trade in Singapore. It is the user’s responsibility to ensure the instrument is verified, secured from tampering, and affixed with the Accuracy Label by an Authorised Verifier (AV) before using it for trade. 
 
-Please refer to **Appendix E** of the Weights and Measures Information Booklet below for the verification process of weighing and measuring instruments for trade use.
+Please refer to **Appendix E** of the Weights and Measures Information Booklet below for the process to get your instrument verified. 
+
+*QR code label and registration of weighing and measuring instruments in CPSA+*
+
+The CPSA+
 
 **Metric system of units**
 
