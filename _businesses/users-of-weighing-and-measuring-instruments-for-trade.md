@@ -34,6 +34,20 @@ Unlike the Accuracy Label which is valid for 12 months, and has to be replaced p
 
 By logging in to CPSA+ and updating your contact information, instrument owners can also receive notifications from CPSA+ about your instruments.
 
+<i><u>Notifications from CPSA+</u></i>
+
+Instrument owners can expect to receive the following notifications from CPSA+:
+
+* List of instruments successfully registered by the AV in CPSA+
+* List of instruments verified by the AV after its record has been successfully submitted in CPSA+
+* A reminder that there are instruments due for re-verification in 2 months’ time
+* A reminder that there are instruments with lapsed ACCURACY Labels and to contact an AV for re-verification before they are used for trade
+* Replacement of Instrument ID for any of your registered instruments
+
+You may find out more about the QR code label and registration of instruments in CPSA+ in Chapter 4.2 of the Weights and Measures Information Booklet.
+
+For more information on how to login to CPSA+ and access information about your registered instruments, click [here](https://www.cpsaplus.gov.sg) and refer to the CPSA+ guidebook for weighing and measuring instrument owners. 
+
 **Metric system of units**
 
 Traders should also ensure that you use the metric system of units when transacting or advertising goods. For example, Kilogram for goods measured by weight, and Litre for goods measured by volume.
