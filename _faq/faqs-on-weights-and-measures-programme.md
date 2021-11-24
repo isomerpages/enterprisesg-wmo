@@ -88,7 +88,7 @@ You can email <weightsandmeasures@enterprisesg.gov.sg> to file a report with the
 
 You may wish to contact the National Metrology Centre at 67149200 or email <metrology@nmc-a-star.edu.sg> for calibration services.
 
-You may also visit <https://www.sac-accreditation.gov.sg/> and search for a list of accredited organisations for calibration services.  
+You may also visit <https://www.sac-accreditation.gov.sg> and search for a list of accredited organisations for calibration services.  
 
 **14. How can I contact WMO?** 
 
