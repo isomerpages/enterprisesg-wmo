@@ -26,7 +26,7 @@ Instrument owners can also login to CPSA+ to view information related to the wei
 
 Effective 30 November 2021, weighing and measuring instruments used for trade will be affixed with a QR code label bearing a unique 7-digit identification number for purpose of instrument registration in the CPSA+ system. The QR code label is to be affixed on the instrument by an AV prior to conducting the initial verification. The QR code will be affixed next to the Accuracy Label on the instrument.
 
-
+![wmo-qr-code-label](/images/al-and-qr-label.png)
 
 **Metric system of units**
 
