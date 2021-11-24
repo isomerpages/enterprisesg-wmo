@@ -18,7 +18,7 @@ Under the Weights and Measures Act, it is an offence to use unregistered i.e., n
 
 Please refer to **Appendix E** of the Weights and Measures Information Booklet below for the process to get your instrument verified. 
 
-***QR code label and registration of weighing and measuring instruments in CPSA+***
+<u>*QR code label and registration of weighing and measuring instruments in CPSA+*</u>
 
 The CPSA+
 
