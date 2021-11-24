@@ -39,9 +39,9 @@ By registering the pattern of the weighing and measuring instrument, it ensures 
 
 This is to ensure that new or repaired weighing or measuring instruments meet the required maximum permissible error (MPE) before they can be used for trade. Consumers should look out for a verification seal and the ACCURACY Label as proof that they are fit for trade use. If the instrument is subsequently repaired, it should be adjusted for accuracy and verified following the repair. 
 
-**7. How do I do register weighing and measuring instruments for trade use?**
+**7. How do I pattern register weighing and measuring instruments for trade use?**
 
-An applicant wishing to seek approval and registration for a weighing or measuring instrument for trade use has to submit the following documents to WMO via the link [here][2]{:target="_blank"}.
+An applicant wishing to seek approval and registration for a weighing or measuring instrument for trade use has to submit the following documents to WMO via the link [here](https://www.go.gov.sg/pattern-registration){:target="_blank"}.
  
 * OIML Certificate of Approval or Pattern Evaluation Certificate – to attest that the pattern of the weighing or measuring instrument is suitable for trade use. 
 * Test Report – attached together with the pattern approval certificate. 
@@ -52,17 +52,15 @@ An applicant wishing to seek approval and registration for a weighing or measuri
 
 Only registered weighing and measuring instruments are allowed to be used for trade purposes in Singapore.
 
-[2]:https://cpsa.enterprisesg.gov.sg/totalagility/forms/cpssite/PublicTermsAndCondition.form?STR_FORM=PatternRegistration%20Submit.form
-
-**8. How long is the registration process?**
+**8. How long is the pattern registration process?**
  
-Registration generally takes one month. 
+Depending on the availability/ completeness of documents provided, registration generally takes one month. 
 
 **9. How often should we have our weighing or measuring instrument re-verified?**
 
-You are encouraged to send your weighing or measuring instrument for re-verification every year or whenever the instrument is not working properly. A verification seal and ACCURACY Label would be affixed on the verified instrument. The ACCURACY Label is valid for a period of 12 months immediately following the month in which it is affixed. 
+You are required to send your weighing or measuring instrument for re-verification minimally every year, or whenever the instrument is not working properly. A verification seal and ACCURACY Label would be affixed on the verified instrument. The ACCURACY Label is valid for a period of 12 months immediately following the month in which it is affixed. 
 
-Please note that it is an offence if the verification seal on the instrument is found to be tampered with. If the verification seal is found broken, you are required to send your instruments for reverification immediately. 
+Please note that it is an offence to use instruments with invalid ACCURACY Labels, and/ or if the verification seal on the instrument is found to be tampered with. If the verification seal is found broken, you are required to send your instruments for re-verification immediately. 
 
 **10. Can the AVs break the verification seal of oil dispensing pumps during servicing? Also, can the same pump with the broken seal be used for trade (without locking up the pump), until the AVs verify the pump on the actual verification and stamping date?**
  
@@ -78,7 +76,7 @@ Only weighing or measuring instruments used to check the final products, specifi
 
 **12. I have just purchased a product which I think is short-weight, probably because a faulty weighing or measuring instrument was used. Where can I file a report?**
  
-You can file a report with WMO and provide the following information: 
+You can email weightsandmeasures@enterprisesg.gov.sg to file a report with the WMO. Please provide the following information: 
 * Date and time of incident 
 * Location of incident 
 * Product involved 
@@ -86,14 +84,12 @@ You can file a report with WMO and provide the following information:
 * Cost of product 
 * Complainant’s particulars, including contact number
 
-**13. Apart from the weighing and measuring instruments for trade use, where can I get my equipment/devices tested?** 
+**13. Apart from the weighing and measuring instruments for trade use, where can I get my equipment/devices/reference weights calibrated?**
 
-You may wish to approach TUV SUD PSB Pte Ltd. They can be reached at 6778 7777 or email to <enquiries@tuv-sud-psb.sg>. 
+You may wish to contact the National Metrology Centre at 67149200 or email metrology@nmc-a-star.edu.sg for calibration services.
 
-**14. Apart from the weighing and measuring instruments for trade use, where can I get my equipment/devices/reference weights calibrated?**
+You may also visit https://www.sac-accreditation.gov.sg/ and search for a list of accredited organisations for calibration services.  
 
-You may wish to approach National Metrology Centre or NMC. They can be reached at 6279 1900 or email to <metrology@nmc.a-star.edu.sg>. 
-
-**15. How can I contact WMO?** 
+**14. How can I contact WMO?** 
 
 For more enquiries, please contact WMO at 1800 773 3163 or email to <consumerprotection@enterprisesg.gov.sg>. Alternatively, please visit our website at <https://www.wmo.gov.sg>.
