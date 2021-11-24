@@ -76,7 +76,7 @@ Only weighing or measuring instruments used to check the final products, specifi
 
 **12. I have just purchased a product which I think is short-weight, probably because a faulty weighing or measuring instrument was used. Where can I file a report?**
  
-You can email weightsandmeasures@enterprisesg.gov.sg to file a report with the WMO. Please provide the following information: 
+You can email <weightsandmeasures@enterprisesg.gov.sg> to file a report with the WMO. Please provide the following information: 
 * Date and time of incident 
 * Location of incident 
 * Product involved 
@@ -86,9 +86,9 @@ You can email weightsandmeasures@enterprisesg.gov.sg to file a report with the W
 
 **13. Apart from the weighing and measuring instruments for trade use, where can I get my equipment/devices/reference weights calibrated?**
 
-You may wish to contact the National Metrology Centre at 67149200 or email metrology@nmc-a-star.edu.sg for calibration services.
+You may wish to contact the National Metrology Centre at 67149200 or email <metrology@nmc-a-star.edu.sg> for calibration services.
 
-You may also visit https://www.sac-accreditation.gov.sg/ and search for a list of accredited organisations for calibration services.  
+You may also visit <https://www.sac-accreditation.gov.sg/> and search for a list of accredited organisations for calibration services.  
 
 **14. How can I contact WMO?** 
 
