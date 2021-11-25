@@ -61,4 +61,4 @@ Registration of the weighing or measuring instrument in CPSA+ by an AV is requir
 
 The information from instrument registration will the help the WMO better track instruments used for trade purposes, ensuring better traceability and accountability of instrument owners. 
 
-Notifications on the instrument’s status will also be sent to instrument owners as well as AVs. You may refer to Chapter 4.2 of the [Weights and Measures Information Booklet]((/files/businesses/wmo_info_booklet.pdf){:target="_blank"} on the various type of notifications you can expect from CPSA+.
+Notifications on the instrument’s status will also be sent to instrument owners as well as AVs. You may refer to Chapter 4.2 of the [Weights and Measures Information Booklet](/files/businesses/wmo_info_booklet.pdf){:target="_blank"} on the various type of notifications you can expect from CPSA+.
