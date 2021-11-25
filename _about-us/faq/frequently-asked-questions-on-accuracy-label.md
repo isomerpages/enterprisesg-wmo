@@ -51,7 +51,7 @@ For consumers, scanning the QR code of the instrument or searching for its 7-dig
 
 Scanning the QR code would also allow consumers to report on the instrument to the WMO. For example, if the instrument is found to have an expired ACCURACY Label, it is not reading zero even without any load placed on it. 
 
-For instrument owners, scanning the QR code facilitates instrument registration by the AV. After login to CPSA+, instrument owners can update information about the instrument, such as the operating location of the instrument. For more information on how to login to CPSA+ and access information about your registered instruments, click [here](https://www.cpsaplus.gov.sg){:target="_blank"} and refer to the CPSA+ Guidebook for Weighing and Measuring Instrument Owners. 
+For instrument owners, the QR code facilitates instrument registration by the AV. After login to CPSA+, instrument owners can update information about the instrument, such as the operating location of the instrument. For more information on how to login to CPSA+ and access information about your registered instruments, click [here](https://www.cpsaplus.gov.sg){:target="_blank"} and refer to the CPSA+ Guidebook for Weighing and Measuring Instrument Owners. 
 
 For AVs, scanning the QR code after login to CPSA+ allows AV to perform various tasks including submission of verification test result for the instrument. For more information on how to login and access the various functions of CPSA+, click [here](https://www.cpsaplus.gov.sg){:target="_blank"} and refer to the CPSA+ Guidebook for Authorised Verifiers.
 
