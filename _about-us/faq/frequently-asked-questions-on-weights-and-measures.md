@@ -55,7 +55,7 @@ Only registered weighing and measuring instruments are allowed to be used for tr
 
 [2]:https://www.go.gov.sg/pattern-registration
 
-**8. How long is the registration process?**
+**8. How long is the pattern registration process?**
  
 Registration generally takes one month. 
 
