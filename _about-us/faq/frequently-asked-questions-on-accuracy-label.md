@@ -43,15 +43,14 @@ The ‘brand new’ verified instrument which has been affixed with the ACCURACY
 
 **9. What is the QR code label and what is its purpose?**
 
-Effective 30 November 2021, weighing and measuring instruments used for trade will be affixed with a QR code label bearing a unique 7-digit identification number for purpose of instrument registration in the CPSA+  system prior to verification by Authorised Verifiers (AVs). The QR code label is to be affixed on the instrument by an AV.
+Effective 30 November 2021, weighing and measuring instruments used for trade will be affixed with a QR code label bearing a unique 7-digit identification number for purpose of instrument registration in the [CPSA+](https://www.cpsaplus.gov.sg)  system prior to verification by Authorised Verifiers (AVs). The QR code label is to be affixed on the instrument by an AV.
 
 The QR code label serves different purpose for different stakeholders. 
 
-For consumers, scanning the QR code of the instrument or searching for its 7-digit unique identification number in CPSA+ allows them to access information about the instrument such as validity of its ACCURACY Label, date of last verification, as well as the business entity the instrument has been registered to in CPSA+.
+For consumers, scanning the QR code of the instrument or searching for its 7-digit unique identification number in [CPSA+ public registry](https://www.cpsaplus.gov.sg/Homepage/PublicRegistryInstrumentList ) allows them to access information about the instrument such as validity of its ACCURACY Label, date of last verification, as well as the business entity the instrument has been registered to in CPSA+.
 
 Scanning the QR code would also allow consumers to report on the instrument to the WMO. For example, if the instrument is found to have an expired ACCURACY Label, it is not reading zero even without any load placed on it. 
 
-For instrument owners, scanning the QR code facilitates instrument registration by the AV. After login to CPSA+, instrument owners can update information about the instrument, such as the operating location of the instrument. For more information on how to login to CPSA+ and access information about your registered instruments, click here and refer to the CPSA+ Guidebook for Weighing and Measuring Instrument Owners. 
+For instrument owners, scanning the QR code facilitates instrument registration by the AV. After login to CPSA+, instrument owners can update information about the instrument, such as the operating location of the instrument. For more information on how to login to CPSA+ and access information about your registered instruments, click [here](https://www.cpsaplus.gov.sg) and refer to the CPSA+ Guidebook for Weighing and Measuring Instrument Owners. 
 
-For AVs, scanning the QR code after login to CPSA+ allows AV to perform various tasks including submission of verification test result for the instrument. For more information on how to login and access the various functions of CPSA+, click here and refer to the CPSA+ Guidebook for Authorised Verifiers.
-
+For AVs, scanning the QR code after login to CPSA+ allows AV to perform various tasks including submission of verification test result for the instrument. For more information on how to login and access the various functions of CPSA+, click [here](https://www.cpsaplus.gov.sg) and refer to the CPSA+ Guidebook for Authorised Verifiers.
