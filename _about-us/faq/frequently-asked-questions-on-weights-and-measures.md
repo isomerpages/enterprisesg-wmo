@@ -1,5 +1,5 @@
 ---
-title: Frequently Asked Questions on Weights and Measures 
+title: Frequently Asked Questions on Weights and Measures
 permalink: /about-us/faq/faq-wmo
 third_nav_title: FAQ
 ---
@@ -40,7 +40,7 @@ By registering the pattern of the weighing and measuring instrument, it ensures 
 
 This is to ensure that new or repaired weighing or measuring instruments meet the required maximum permissible error (MPE) before they can be used for trade. Consumers should look out for a verification seal and the ACCURACY Label as proof that they are fit for trade use. If the instrument is subsequently repaired, it should be adjusted for accuracy and verified following the repair. 
 
-**7. How do I do register weighing and measuring instruments for trade use?**
+**7. How do I pattern register weighing and measuring instruments for trade use?**
 
 An applicant wishing to seek approval and registration for a weighing or measuring instrument for trade use has to submit the following documents to WMO via the link [here][2]{:target="_blank"}.
  
@@ -53,7 +53,7 @@ An applicant wishing to seek approval and registration for a weighing or measuri
 
 Only registered weighing and measuring instruments are allowed to be used for trade purposes in Singapore.
 
-[2]:https://cpsa.enterprisesg.gov.sg/totalagility/forms/cpssite/PublicTermsAndCondition.form?STR_FORM=PatternRegistration%20Submit.form
+[2]:https://www.go.gov.sg/pattern-registration
 
 **8. How long is the registration process?**
  
@@ -98,5 +98,3 @@ You may wish to approach National Metrology Centre or NMC. They can be reached a
 **15. How can I contact WMO?** 
 
 For more enquiries, please contact WMO at 6898 1800 or email to <weightsandmeasures@enterprisesg.gov.sg>. Alternatively, please visit our website at <https://www.weightsandmeasures.gov.sg>.
-
-
