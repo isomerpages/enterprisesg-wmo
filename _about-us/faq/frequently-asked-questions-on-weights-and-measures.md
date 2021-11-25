@@ -57,13 +57,13 @@ Only registered weighing and measuring instruments are allowed to be used for tr
 
 **8. How long is the pattern registration process?**
  
-Registration generally takes one month. 
+Depending on the availability/ completeness of documents provided, registration generally takes one month. 
 
 **9. How often should we have our weighing or measuring instrument re-verified?**
 
-You are encouraged to send your weighing or measuring instrument for re-verification every year or whenever the instrument is not working properly. A verification seal and ACCURACY Label would be affixed on the verified instrument. The ACCURACY Label is valid for a period of 12 months immediately following the month in which it is affixed. 
+You are required to send your weighing or measuring instrument for re-verification minimally every year, or whenever the instrument is not working properly. A verification seal and ACCURACY Label would be affixed on the verified instrument. The ACCURACY Label is valid for a period of 12 months immediately following the month in which it is affixed. 
 
-Please note that it is an offence if the verification seal on the instrument is found to be tampered with. If the verification seal is found broken, you are required to send your instruments for reverification immediately. 
+Please note that it is an offence to use instruments with invalid ACCURACY Label, and/ or if the verification seal on the instrument is found to be tampered with. If the verification seal is found broken, you are required to send your instruments for reverification immediately. 
 
 **10. Can the AVs break the verification seal of oil dispensing pumps during servicing? Also, can the same pump with the broken seal be used for trade (without locking up the pump), until the AVs verify the pump on the actual verification and stamping date?**
  
@@ -73,28 +73,23 @@ However, the same pump cannot be used for trade unless it is locked. It must be 
 
 If the pump is found accurate during verification, all adjustable parts of the pump will be sealed during the stamping of the pump. Thereafter, the pump can be used for trade. 
 
-**11. Do packing factories need to have their weighing or measuring instruments verified?** 
-
-Only weighing or measuring instruments used to check the final products, specifically, products that are to be delivered to the stores, need to be verified. 
-
-**12. I have just purchased a product which I think is short-weight, probably because a faulty weighing or measuring instrument was used. Where can I file a report?**
+**11. I have just purchased a product which I think is short-weight, probably because a faulty weighing or measuring instrument was used. Where can I file a report?**
  
-You can file a report with WMO and provide the following information: 
+You can email <weightsandmeasures@enterprisesg.gov.sg> to file a report with the WMO. Please provide the following information: 
 * Date and time of incident 
 * Location of incident 
 * Product involved 
 * Quantity purchased 
-* Cost of product 
+* Cost of product
+* Receipt or invoice of the transaction if available 
 * Complainant’s particulars, including contact number
 
-**13. Apart from the weighing and measuring instruments for trade use, where can I get my equipment/devices tested?** 
+**12. Apart from the weighing and measuring instruments for trade use, where can I get my equipment/devices/reference weights calibrated?**
 
-You may wish to approach TUV SUD PSB Pte Ltd. They can be reached at 6778 7777 or email to <enquiries@tuv-sud-psb.sg>. 
+You may visit the National Metrology Centre's website at <https://www.a-star.edu.sg/nmc> for calibration services.
 
-**14. Apart from the weighing and measuring instruments for trade use, where can I get my equipment/devices/reference weights calibrated?**
+You may also visit <https://www.sac-accreditation.gov.sg/> and search for a list of accredited organisations for calibration services.  
 
-You may wish to approach National Metrology Centre or NMC. They can be reached at 6279 1900 or email to <metrology@nmc.a-star.edu.sg>. 
-
-**15. How can I contact WMO?** 
+**13. How can I contact WMO?** 
 
 For more enquiries, please contact WMO at 6898 1800 or email to <weightsandmeasures@enterprisesg.gov.sg>. Alternatively, please visit our website at <https://www.weightsandmeasures.gov.sg>.
