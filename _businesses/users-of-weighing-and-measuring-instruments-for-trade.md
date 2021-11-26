@@ -35,7 +35,7 @@ Unlike the Accuracy Label which is valid for 12 months, and has to be replaced p
 
 <i><u>Notifications from CPSA+</u></i>
 
-For registered businesses with UEN, the contact information provided to the AVs for purpose of instrument registration will receive the following notifications about the instrument from CPSA+:
+For registered businesses with UEN, the contact information provided to the AVs for purpose of instrument registration will receive the following notifications from CPSA+:
 
 * List of instruments successfully registered by the AV in CPSA+
 * List of instruments verified by the AV after its record has been successfully submitted in CPSA+
