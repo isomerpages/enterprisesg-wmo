@@ -16,4 +16,4 @@ More information on the Weights and Measures Programme can be found below.
 
 * [Singapore Weights and Measures Information Booklet](/files/businesses/wmo_info_booklet.pdf){:target="_blank"}
 * [e-registration of Weighing/Measuring Instruments](https://www.go.gov.sg/pattern-registration){:target="_blank"}
-* [Register of Weighing and Measuring Instruments Granted Pattern Approval](https://www.cpsaplus.gov.sg/Home/RegistryOfRegisteredSuppliersAndPatternApproval){:target="_blank"}
+* [Register of Weighing and Measuring Instruments Granted Pattern Approval](https://www.cpsaplus.gov.sg/Homepage/RegistryOfRegisteredSuppliersAndPatternApproval){:target="_blank"}
