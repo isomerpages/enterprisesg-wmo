@@ -25,7 +25,7 @@ The CPSA+ is an application website where AVs can submit verification records, a
 
 Instrument owners can also login to CPSA+ to view information related to the weighing and measuring instruments they use for trade, e.g. the verification status of the instrument, it’s operating location, etc. The instrument would first need to be registered in CPSA+ before this information will be viewable.  
 
-Effective 30 November 2021, weighing and measuring instruments used for trade will be affixed with a QR code label bearing a unique 7-digit identification number for purpose of instrument registration in the CPSA+ system. The QR code label is to be affixed on the instrument by an AV prior to conducting the initial verification. The QR code will be affixed next to the Accuracy Label on the instrument.
+Effective 30 November 2021, weighing and measuring instruments used for trade will be affixed with a QR code label bearing a unique 7-digit identification number for purpose of instrument registration in the CPSA+ system. The QR code label is to be affixed on the instrument by an AV prior to conducting the initial verification. The QR code will be affixed next to the Accuracy Label or, in a position on the instrument easily seen by consumers.
 
 <img src="/images/al-and-qr-label.png" alt="wmo-qr-code-label" style="width:295px;height:93px;">
 
