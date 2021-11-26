@@ -31,7 +31,7 @@ Effective 30 November 2021, weighing and measuring instruments used for trade wi
 
 The first 2 digits of the identification number represent the year the instrument was registered in CPSA+. For example, if the instrument was registered by the AV in 2021, the unique identification number for the instrument would thus start with ‘21’ followed by its serialised number e.g., 21XXXXX.
 
-Unlike the Accuracy Label which is valid for 12 months, and has to be replaced prior to its expiry, the QR code label is meant to be permanent, and should only be changed by an AV if it is found damaged or missing from the registered instrument.
+Unlike the ACCURACY Label which is valid for 12 months, and has to be replaced prior to its expiry, the QR code label is meant to be permanent, and should only be changed by an AV if it is found damaged or missing from the registered instrument.
 
 <i><u>Notifications from CPSA+</u></i>
 
