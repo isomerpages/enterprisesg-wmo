@@ -33,17 +33,19 @@ The first 2 digits of the identification number represent the year the instrumen
 
 Unlike the Accuracy Label which is valid for 12 months, and has to be replaced prior to its expiry, the QR code label is meant to be permanent, and should only be changed by an AV if it is found damaged or missing from the registered instrument.
 
-By logging in to CPSA+ and updating your contact information, instrument owners can also receive notifications from CPSA+ about your instruments.
-
 <i><u>Notifications from CPSA+</u></i>
 
-Instrument owners can expect to receive the following notifications from CPSA+:
+For registered businesses with UEN, the contact information provided to the AVs for purpose of instrument registration will receive the following notifications about the instrument from CPSA+:
 
 * List of instruments successfully registered by the AV in CPSA+
 * List of instruments verified by the AV after its record has been successfully submitted in CPSA+
 * A reminder that there are instruments due for re-verification in 2 months’ time
 * A reminder that there are instruments with lapsed ACCURACY Labels and to contact an AV for re-verification before they are used for trade
 * Replacement of Instrument ID for any of your registered instruments
+
+Registered businesses with UEN may also login CPSA+ to update contact information or location of your instrument if there are any changes. 
+
+For instrument owners with no UEN, notifications on the instruments will be sent via SMS based on the contact information provided to the AVs for instrument registration.
 
 You may find out more about the QR code label and registration of instruments in CPSA+ in [Chapter 4.2 of the Weights and Measures Information Booklet](/files/businesses/wmo_info_booklet.pdf){:target="_blank"}.
 
