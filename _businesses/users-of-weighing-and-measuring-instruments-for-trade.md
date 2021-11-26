@@ -9,8 +9,9 @@ permalink: /businesses/users-of-weighing-and-measuring-instruments-for-trade-use
 
 Weighing or measuring instruments used for trade in Singapore need to have their pattern or type registered with the Weights and Measures Office, and verified by an Authorised Verifier to ensure the instrument’s accuracy and fit for trade use. Examples of such instruments may be found in the Singapore Weights and Measures information booklet. 
 
-Please refer to **Appendix D** of the Weights and Measures Information Booklet below for the registration process of weighing and measuring instruments for trade use.
+Please refer to **Appendix D** of the Weights and Measures Information Booklet below for the pattern registration process of weighing and measuring instruments for trade use.
 
+You may refer to the [Register of Weighing and Measuring Instruments Granted Pattern Approval](https://www.cpsaplus.gov.sg/Home/RegistryOfRegisteredSuppliersAndPatternApproval){:target="_blank"} for a list of weighing and measuring instruments pattern registered with the WMO.
 
 **Verification of weighing and measuring instruments**
 
