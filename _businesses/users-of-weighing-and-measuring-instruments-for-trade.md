@@ -11,7 +11,7 @@ Weighing or measuring instruments used for trade in Singapore need to have their
 
 Please refer to **Appendix D** of the Weights and Measures Information Booklet below for the pattern registration process of weighing and measuring instruments for trade use.
 
-You may refer to the [Register of Weighing and Measuring Instruments Granted Pattern Approval](https://www.cpsaplus.gov.sg/Home/RegistryOfRegisteredSuppliersAndPatternApproval){:target="_blank"} for a list of weighing and measuring instruments pattern registered with the WMO.
+You may refer to the [Register of Weighing and Measuring Instruments Granted Pattern Approval](https://www.cpsaplus.gov.sg/Homepage/RegistryOfRegisteredSuppliersAndPatternApproval){:target="_blank"} for a list of weighing and measuring instruments pattern registered with the WMO.
 
 **Verification of weighing and measuring instruments**
 
