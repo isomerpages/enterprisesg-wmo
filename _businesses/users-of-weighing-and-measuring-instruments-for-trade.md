@@ -43,7 +43,7 @@ For registered businesses with UEN, the contact information provided to the AVs 
 * A reminder that there are instruments with lapsed ACCURACY Labels and to contact an AV for re-verification before they are used for trade
 * Replacement of Instrument ID for any of your registered instruments
 
-Registered businesses with UEN may also login CPSA+ to update contact information or location of your instrument if there are any changes. 
+Registered businesses with UEN may also login CPSA+ to update your contact information or location of your instrument if there are any changes. 
 
 For instrument owners with no UEN, notifications on the instruments will be sent via SMS based on the contact information provided to the AVs for instrument registration.
 
