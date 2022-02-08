@@ -6,7 +6,7 @@ permalink: /consumers/about-the-ACCURACY Label
 
 <img src="/images/accuracy-label-ver2021.png" alt="accuracy label" style="width:206px;height:92px;" align="left"><br><br><br>
 
-All weighing or measuring instruments used for trade in Singapore need to be verified for accuracy annually by an Authorised Verifier to ensure that consumers get what they pay for. 
+Weighing or measuring instruments prescribed under the [First Schedule of the Weights and Measures Regulations](https://sso.agc.gov.sg/SL/WMA1975-S844-2005?DocDate=20180329&ProvIds=Sc1-#Sc1-) which are used for trade in Singapore need to be verified for accuracy annually by an Authorised Verifier to ensure that consumers get what they pay for. 
 
 Verified instruments will be affixed with an ACCURACY Label. The ACCURACY Label is valid for 12 months from the month the instrument it is affixed to, was verified. Subsequent re-verification of the weighing or measuring instrument by an Authorised Verifier is required to renew the ACCURACY Label.
 
