@@ -1,6 +1,6 @@
 ---
 title: FAQs on Weights and Measures Programme
-permalink: /faq/faq-wmo
+permalink: /faq/faq-wmo/
 ---
 ### Frequently Asked Questions
 
@@ -27,7 +27,7 @@ WMO performs the following functions:
 
 Your weighing or measuring instrument needs to be verified before it can be used for trade. Contact an Authorised Verifier (AV) to make arrangements to have your weighing or measuring instrument verified/stamped. A list of the AVs can be found at [List of Authorised Verifiers of Weighing and Measuring Instruments][1]{:target="_blank"}.
 
-[1]:/files/businesses/authorised-verifiers-list.pdf
+[1]:(https://www.cpsaplus.gov.sg/Homepage/RegisterOfAuthorisedVerifier){:target="_blank"}
 
 **5. Why is there a need to register the pattern of weighing and measuring instruments for trade use?**
 
