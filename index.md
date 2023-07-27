@@ -1,15 +1,15 @@
 ---
 layout: homepage
 title: Weights and Measures Office
-description: Learn more about the weights and measures regulations in Singapore.
-image: /images/about/wmo-hi-res.svg
+description: An Isomer site of the Singapore Government
+image: /images/isomer-logo.svg
 permalink: /
 notification: Please be informed effective 30 November 2021, the CPSA website
-  has been replaced by our new CPSA+ website. Click <a href =
-  "https://www.cpsaplus.gov.sg">here</a> to find out more about CPSA+.
+  has been replaced by our new CPSA+ website. Click <a
+  href="https://www.cpsaplus.gov.sg">here</a> to find out more about CPSA+.
 sections:
   - hero:
-      subtitle: <h3>Ensuring accuracy in daily transactions<h3>
+      subtitle: <h3>Ensuring accuracy in daily transactions</h3><h3></h3>
       background: /images/about/twodragons1920x720.jpg
       key_highlights:
         - title: Be a responsible trader
