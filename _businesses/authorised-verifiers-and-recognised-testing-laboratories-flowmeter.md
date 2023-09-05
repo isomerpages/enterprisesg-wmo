@@ -1,6 +1,6 @@
 ---
 title: Authorised Verifiers and Recognised Testing Laboratories (Flowmeter)
-permalink: /businesses/authorised-verifiers-and-recognised-testing-laboratories
+permalink: /businesses/authorised-verifiers-and-recognised-testing-laboratories/
 ---
 ### For Authorised Verifiers and Recognised Testing Laboratories (Flowmeter) 
 

@@ -1,6 +1,6 @@
 ---
 title: Suppliers or importers of weighing and measuring instruments
-permalink: /businesses/suppliers-or-importers-of-weighing-and-measuring-instruments
+permalink: /businesses/suppliers-or-importers-of-weighing-and-measuring-instruments/
 ---
 ### For suppliers or importers of weighing and measuring instruments 
 

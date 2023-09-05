@@ -1,6 +1,6 @@
 ---
 title: FAQs on ACCURACY label
-permalink: /faq/faq-accuracy-label
+permalink: /faq/faq-accuracy-label/
 ---
 ### Frequently Asked Questions 
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  CHANGES TO THE WEIGHTS & MEASURES FEES
-permalink: /news-and-media/circulars/changes-to-the-weights-and-measures-fee
+permalink: /news-and-media/circulars/changes-to-the-weights-and-measures-fee/
 ---
 
 Date: 1 May 2020\

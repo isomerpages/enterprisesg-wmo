@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  EXTENSION OF ACCURACY LABEL 12 MONTHS VALIDITY
-permalink: /news-and-media/circulars/extension-of-accuracy-label-12-months-validity
+permalink: /news-and-media/circulars/extension-of-accuracy-label-12-months-validity/
 ---
 
 Date: 09 April 2020\

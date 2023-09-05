@@ -1,6 +1,6 @@
 ---
 title: About the Accuracy Label
-permalink: /consumers/about-the-ACCURACY Label
+permalink: /consumers/about-the-accuracy label/
 ---
 ### About the Accuracy Label
 
