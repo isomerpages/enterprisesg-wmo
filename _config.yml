@@ -46,8 +46,8 @@ custom_print_css_path: /assets/css/print.css
 paginate: 12
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
-staging: https://staging.d2yntolxyt3r0k.amplifyapp.com/
-prod: https://master.d2yntolxyt3r0k.amplifyapp.com/
+staging: https://staging.dhv340komuejq.amplifyapp.com/
+prod: https://master.dhv340komuejq.amplifyapp.com/
 plugins:
   - jekyll-feed
   - jekyll-assets
