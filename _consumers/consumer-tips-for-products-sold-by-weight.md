@@ -6,7 +6,7 @@ permalink: /consumers/consumer-tips-for-products-sold-by-weight/
 
 **1. When measuring the weight of goods**
 
-| ![illustration-02](/images/Consumers/illustration-02.jpg) | ![blank](images/about/blank.png) | ![blank](images/about/blank.png) 
+| ![illustration-02](/images/consumers/illustration-02.jpg) | ![blank](images/about/blank.png) | ![blank](images/about/blank.png) 
 
 - Look out for the ACCURACY Label on the instrument.
 - Check that the display indicates ‘zero’ before the goods are weighed.
@@ -16,7 +16,7 @@ permalink: /consumers/consumer-tips-for-products-sold-by-weight/
 
 **2. When buying pre-packaged products**
 
-| ![illustration-01](/images/Consumers/illustration-01.jpg) | ![blank](images/about/blank.png) | ![blank](images/about/blank.png)  
+| ![illustration-01](/images/consumers/illustration-01.jpg) | ![blank](images/about/blank.png) | ![blank](images/about/blank.png)  
 
 - Check goods with torn or tampered packaging to ensure net quantity is not less than that stated on the label.
 - The label should state the net content of the product using the metric unit system for example, kilogram (kg) for weight measurement.
@@ -24,7 +24,7 @@ permalink: /consumers/consumer-tips-for-products-sold-by-weight/
 
 **3. When refueling at the petrol station**
 
-| ![illustration-03](/images/Consumers/illustration-03.jpg) | ![blank](images/about/blank.png) | ![blank](images/about/blank.png) 
+| ![illustration-03](/images/consumers/illustration-03.jpg) | ![blank](images/about/blank.png) | ![blank](images/about/blank.png) 
 
 - Ensure the price and volume electronic display indicates ‘zero’ before dispensing fuel.
 - Look out for any fuel leak before dispensing. Alert the station manager immediately if a leak is observed.
