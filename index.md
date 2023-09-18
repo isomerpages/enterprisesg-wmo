@@ -5,7 +5,7 @@ description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
 notification: The website will undergo a scheduled maintenance on 20 September
-  2023, 10.30am to 1.30pm. The website may be unavailable during this period. We
+  2023, 10.30am to 1.30pm and may be unavailable during this period. We
   apologize for any inconvenience this may cause and appreciate your
   understanding.
 sections:
