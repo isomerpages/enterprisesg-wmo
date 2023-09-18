@@ -4,9 +4,10 @@ title: Weights and Measures Office
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: Please be informed effective 30 November 2021, the CPSA website
-  has been replaced by our new CPSA+ website. Click <a
-  href="https://www.cpsaplus.gov.sg">here</a> to find out more about CPSA+.
+notification: The website will undergo a scheduled maintenance on 20 September
+  2023, 10.30am to 1.30pm. The website may be unavailable during this period. We
+  apologize for any inconvenience this may cause and appreciate your
+  understanding.
 sections:
   - hero:
       subtitle: <h3>Ensuring accuracy in daily transactions</h3><h3></h3>
