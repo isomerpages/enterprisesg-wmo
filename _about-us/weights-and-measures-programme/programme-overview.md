@@ -1,6 +1,6 @@
 ---
 title: Programme Overview
-permalink: /about-us/weights-and-measures-programme/overview
+permalink: /about-us/weights-and-measures-programme/overview/
 third_nav_title: Weights and Measures Programme
 published: false
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Update to the AV Scheme information booklet on conflict of interest
-permalink: /news-and-media/circulars/update-to-the-av-scheme-information-booklet-on-conflict-of-interest
+permalink: /news-and-media/circulars/update-to-the-av-scheme-information-booklet-on-conflict-of-interest/
 ---
 
 Date: 04 June 2021\

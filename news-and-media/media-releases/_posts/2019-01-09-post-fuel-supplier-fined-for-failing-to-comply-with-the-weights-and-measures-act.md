@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Fuel Supplier Fined for Failing to Comply with the Weights and Measures Act
-permalink: /news-and-media/media-releases/fuel-supplier-fined-for-failing-to-comply-with-WMA
+permalink: /news-and-media/media-releases/fuel-supplier-fined-for-failing-to-comply-with-wma/
 ---
 ### Fuel Supplier Fined for Failing to Comply with the Weights and Measures Act
 

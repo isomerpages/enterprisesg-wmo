@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  CHANGES TO THE WEIGHTS & MEASURES FEES
-permalink: /news-and-media/circulars/changes-to-the-weights-and-measures-fee
+permalink: /news-and-media/circulars/changes-to-the-weights-and-measures-fee/
 ---
 
 Date: 1 May 2020\
@@ -14,7 +14,7 @@ Enterprise Singapore is the appointed national legal metrology body to administe
 ### Fees
 The Weights & Measures (Fees) Regulations have been in force since 1984, and several amendments have been made since to pass on savings from process improvements to businesses. Enterprise Singapore is committed to ensuring that the process of ensuring accurate weighing and measuring instruments is as business-friendly and cost efficient as possible. The revised fees will take effect from 1 May 2020.
 
-![Revised-fees](/images/news-and-media/WM-fees.PNG)
+![Revised-fees](/images/news-and-media/wm-fees.png)
 
 Examples of current and revised fees are illustrated below. For a complete list of the Weights & Measures Fees, visit <https://www.enterprisesg.gov.sg/weights-measures>.
 
