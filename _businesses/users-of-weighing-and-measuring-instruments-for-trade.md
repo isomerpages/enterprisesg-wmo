@@ -1,6 +1,7 @@
 ---
 title: Users of weighing and measuring instruments for trade
 permalink: /businesses/users-of-weighing-and-measuring-instruments-for-trade-use/
+variant: markdown
 ---
 ### For users of weighing and measuring instruments for trade use
 
@@ -60,5 +61,4 @@ More information on Weights and Measures can be found below.
 
 * [Singapore Weights and Measures Information Booklet](/files/businesses/wmo_info_booklet.pdf){:target="_blank"}
 * [List of Authorised Verifiers of Weighing and Measuring Instruments](https://www.cpsaplus.gov.sg/Homepage/RegisterOfAuthorisedVerifier){:target="_blank"}
-* [List of Recognised Testing Laboratories](/files/businesses/list_of_rtl.pdf){:target="_blank"} for the Recognised Testing Laboratory (Flowmeter) Scheme
 * [List of Registered Weighing and Measuring Instruments](https://www.cpsaplus.gov.sg/Homepage/PublicRegistryInstrumentList){:target="_blank"}
