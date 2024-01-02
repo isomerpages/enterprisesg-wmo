@@ -3,9 +3,7 @@ title: Authorised Verifiers and Recognised Testing Laboratories (Flowmeter)
 permalink: /businesses/authorised-verifiers-and-recognised-testing-laboratories/
 variant: markdown
 ---
-### For Authorised Verifiers and Recognised Testing Laboratories (Flowmeter) 
-
-**Authorised Verifiers**
+### For Authorised Verifiers
 
 Under the Weights and Measures Act, qualified companies are allowed to carry out the verification and stamping of weighing and measuring instruments for trade use under the Weights and Measures Office's Authorised Verifier Scheme. 
 
