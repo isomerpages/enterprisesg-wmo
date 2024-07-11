@@ -1,6 +1,7 @@
 ---
 title: FAQs on Weights and Measures Programme
 permalink: /faq/faq-wmo/
+variant: markdown
 ---
 ### Frequently Asked Questions
 
@@ -8,7 +9,7 @@ permalink: /faq/faq-wmo/
 
 The Weights and Measures Office (WMO) ensures that a uniform and accurate system of weights and measures is used in Singapore. With the system, consumers and traders are assured that they get what they pay for when buying goods that are weighed, measured or pre-packed. It also provides a correct measurement for excise tax computation for the Government.
 
-**2. Why is there a need for a Weights & Measures Act?**
+**2. Why is there a need for a Weights &amp; Measures Act?**
 
 The Weights and Measures Act ensures fair trading and penalizes traders for short-weights and measures. It enables WMO to enforce controls on weighing and measuring instruments used for trade, the net contents of pre-packaged goods as well as prevent unfair trading due to short-weights or measures.
 
@@ -76,7 +77,7 @@ Only weighing or measuring instruments used to check the final products, specifi
 
 **12. I have just purchased a product which I think is short-weight, probably because a faulty weighing or measuring instrument was used. Where can I file a report?**
  
-You can email <weightsandmeasures@enterprisesg.gov.sg> to file a report with the WMO. Please provide the following information: 
+You can email  to file a report with the WMO. Please provide the following information: 
 * Date and time of incident 
 * Location of incident 
 * Product involved 
@@ -86,10 +87,10 @@ You can email <weightsandmeasures@enterprisesg.gov.sg> to file a report with the
 
 **13. Apart from the weighing and measuring instruments for trade use, where can I get my equipment/devices/reference weights calibrated?**
 
-You may wish to contact the National Metrology Centre at 67149200 or email <metrology@nmc-a-star.edu.sg> for calibration services.
+You may wish to contact the National Metrology Centre at 67149200 or email  for calibration services.
 
-You may also visit <https://www.sac-accreditation.gov.sg> and search for a list of accredited organisations for calibration services.  
+You may also visit  and search for a list of accredited organisations for calibration services.  
 
 **14. How can I contact WMO?** 
 
-For more enquiries, please contact WMO at 1800 773 3163 or email to <consumerprotection@enterprisesg.gov.sg>. Alternatively, please visit our website at <https://www.wmo.gov.sg>.
+For more enquiries, please contact WMO at 1800 773 3163 or email to [weightsandmeasures@enterprisesg.gov.sg](mailto:weightsandmeasures@enterprisesg.gov.sg). Alternatively, please visit our website at https://www.weightsandmeasures.gov.sg/.
