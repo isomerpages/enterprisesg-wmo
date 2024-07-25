@@ -2,7 +2,7 @@
 title: Requirements
 permalink: /about-us/weights-and-measures-programme/requirements/
 third_nav_title: Weights and Measures Programme
-published: false
+published: true
 
 ---
 ### Requirements under the Weights and Measures Programme
