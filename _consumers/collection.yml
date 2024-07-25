@@ -1,0 +1,6 @@
+collections:
+  consumers:
+    output: true
+    order:
+      - consumer-tips-for-products-sold-by-weight.md
+      - about-the-accuracy-label.md
