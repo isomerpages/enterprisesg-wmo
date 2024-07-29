@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  Update to the AV Scheme information booklet on conflict of interest
+title: Update to the AV Scheme information booklet on conflict of interest
 permalink: /news-and-media/circulars/update-to-the-av-scheme-information-booklet-on-conflict-of-interest/
+variant: markdown
 ---
-
 Date: 04 June 2021\
 Our Ref: WMO-040621-01
 
@@ -30,11 +30,6 @@ this update**.
 The updated Terms and Conditions of appointment and re-appointment as AV found in Appendix D of the AV Scheme booklet will apply to AVs designated from 04
 June 2021 onwards.
 
-For further enquiries, you may write to <weightsandmeasures@enterprisesg.gov.sg>.
+For further enquiries, you may write to [weightsandmeasures@enterprisesg.gov.sg](mailto:weightsandmeasures@enterprisesg.gov.sg).
 
 [Update to the AV Scheme information booklet on conflict of interest](/files/circulars/wmo-circular-040621-01.pdf){:target="_blank"}
-
-
-
-
-
