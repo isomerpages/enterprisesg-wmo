@@ -1,6 +1,0 @@
-collections:
-  faq:
-    output: true
-    order:
-      - faqs-on-weights-and-measures-programme.md
-      - faqs-on-accuracy-label.md
