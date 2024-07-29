@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  EXTENSION OF ACCURACY LABEL 12 MONTHS VALIDITY
+title: EXTENSION OF ACCURACY LABEL 12 MONTHS VALIDITY
 permalink: /news-and-media/circulars/extension-of-accuracy-label-12-months-validity/
+variant: markdown
 ---
-
 Date: 09 April 2020\
 Our Ref: CW-WM-200409-1
 
@@ -32,8 +32,6 @@ purpose of enforcement on ACCURACY Label validity. This means from Aug 2020 , bu
 expect to face punitive actions. This is also subjected to further changes to the Extension Period, and as required by the Controller of 
 Weights and Measures.
 
-For any question on this circular, you may contact Mr. Chia Junming, Javier at <Javier_Chia@enterprisesg.gov.sg>.
+For any question on this circular, you may contact Mr. Chia Junming, Javier at [Javier\_Chia@enterprisesg.gov.sg](mailto:Javier_Chia@enterprisesg.gov.sg).
 
 [EXTENSION OF ACCURACY LABEL 12 MONTHS VALIDITY](/files/circulars/circular-cw-wm-200409-1-extension-of-accuracy-label-12-months-validity.pdf){:target="_blank"}
-
-
