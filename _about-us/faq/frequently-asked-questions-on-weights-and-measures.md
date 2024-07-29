@@ -76,7 +76,7 @@ If the pump is found accurate during verification, all adjustable parts of the p
 
 **11. I have just purchased a product which I think is short-weight, probably because a faulty weighing or measuring instrument was used. Where can I file a report?**
  
-You can email  to file a report with the WMO. Please provide the following information: 
+You can email [weightsandmeasures@enterprisesg.gov.sg](mailto:weightsandmeasures@enterprisesg.gov.sg) to file a report with the WMO. Please provide the following information: 
 * Date and time of incident 
 * Location of incident 
 * Product involved 
@@ -87,10 +87,10 @@ You can email  to file a report with the WMO. Please provide the following infor
 
 **12. Apart from the weighing and measuring instruments for trade use, where can I get my equipment/devices/reference weights calibrated?**
 
-You may visit the National Metrology Centre's website at  for calibration services.
+You may visit the National Metrology Centre's website at [https://www.a-star.edu.sg/nmc](https://www.a-star.edu.sg/nmc) for calibration services.
 
-You may also visit  and search for a list of accredited organisations for calibration services.  
+You may also visit [https://www.sac-accreditation.gov.sg/](https://www.sac-accreditation.gov.sg/) and search for a list of accredited organisations for calibration services.  
 
 **13. How can I contact WMO?** 
 
-For more enquiries, please contact WMO at 6898 1800 or email to . Alternatively, please visit our website at .
+For more enquiries, please contact WMO at 6898 1800 or email to [weightsandmeasures@enterprisesg.gov.sg](mailto:weightsandmeasures@enterprisesg.gov.sg). Alternatively, please visit our website at [https://www.weightsandmeasures.gov.sg](https://www.weightsandmeasures.gov.sg/).
