@@ -3,11 +3,6 @@ collections:
     output: true
     order:
       - overview.md
-      - weights-and-measures-programme/.keep
-      - weights-and-measures-programme/regulations.md
-      - weights-and-measures-programme/programme-overview.md
-      - weights-and-measures-programme/requirements.md
-      - weights-and-measures-programme/the-accuracy-label.md
       - faq/.keep
       - faq/frequently-asked-questions-on-weights-and-measures.md
       - faq/frequently-asked-questions-on-accuracy-label.md
