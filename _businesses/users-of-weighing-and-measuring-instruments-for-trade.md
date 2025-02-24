@@ -14,18 +14,18 @@ use instruments pattern registered with the Weights and Measures Office
 purpose.</p>
 <p>You can find a list of WMO pattern registered weighing and measuring instruments
 in the <a href="https://www.cpsaplus.gov.sg/Homepage/RegistryOfRegisteredSuppliersAndPatternApproval" rel="noopener noreferrer nofollow" target="_blank">Register of Weighing and Measuring Instruments Granted Pattern Approval</a>.</p>
-<p><strong>Submit the instrument to an Authorized Verifier (AV) to verify that it is fit for trade use</strong>
+<p><strong>Submit the instrument to an Authorized Verifier to verify that it is fit for trade use</strong>
 </p>
 <p>Under the Weights and Measures Act, it is an offence to use unregistered
 i.e., not pattern registered, and/or unverified instruments for trade in
 Singapore.</p>
-<p>Businesses can contact one of the Authorized Verifiers which are appointed
-by the WMO to carry out verification of these instruments. Their contact
-details can be found on our <a href="https://www.cpsaplus.gov.sg/Homepage/RegisterOfAuthorisedVerifier" rel="noopener noreferrer nofollow" target="_blank">Register of Authorized Verifiers</a>.</p>
+<p>Businesses can contact one of the Authorized Verifiers (AVs) which are
+appointed by the WMO to carry out verification of these instruments. Their
+contact details can be found on our <a href="https://www.cpsaplus.gov.sg/Homepage/RegisterOfAuthorisedVerifier" rel="noopener noreferrer nofollow" target="_blank">Register of Authorized Verifiers</a>.</p>
 <p>Instrument verification records are immediately approved when submitted
 by the AV through the WMO's application website (<a href="https://www.cpsaplus.gov.sg/HomePage/" rel="noopener noreferrer nofollow" target="_blank">CPSA+</a>). Members of public
-and businesses will be able to view the details of the instruments, including
-verification statuses, using the <a href="https://www.cpsaplus.gov.sg/Homepage/PublicRegistryInstrumentList" rel="noopener noreferrer nofollow" target="_blank">Register of Instruments</a>.</p>
+and businesses will be able to view the details of the instruments using
+the <a href="https://www.cpsaplus.gov.sg/Homepage/PublicRegistryInstrumentList" rel="noopener noreferrer nofollow" target="_blank">Register of Instruments</a>.</p>
 <p>Please refer to <strong>Appendix E</strong> of the Weights and Measures
 Information Booklet below for the process to get your instrument verified.</p>
 <p></p>
@@ -33,7 +33,7 @@ Information Booklet below for the process to get your instrument verified.</p>
 </p>
 <p>The CPSA+ is an application website where AVs can submit verification
 records, as well as where the public registry of pattern registered instruments,
-list of weighting and measuring instrument used for trade, list of designated
+list of weighing and measuring instrument used for trade, list of designated
 AVs, etc. are hosted.</p>
 <p>Instrument owners can also login to CPSA+ to view information related
 to the weighing and measuring instruments they use for trade, e.g. the
