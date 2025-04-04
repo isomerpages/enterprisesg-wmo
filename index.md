@@ -4,9 +4,13 @@ title: Weights and Measures Office
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: Please be informed effective 30 November 2021, the CPSA website
-  has been replaced by our new CPSA+ website. Click <a
-  href="https://www.cpsaplus.gov.sg">here</a> to find out more about CPSA+.
+notification: With effect from 1st June 2025, the Weights and Measures Office
+  (WMO) will be transferred to the Competition and Consumer Commission of
+  Singapore (CCCS). <br><br>  There will be no changes to the prevailing
+  regulatory regime administered by the WMO arising from the transfer.
+  <br><br>  You may continue to reach us via existing channels before 1st June
+  2025. Details on new public communication touchpoints following the transfer
+  will be shared in due course.
 sections:
   - hero:
       subtitle: <h3>Ensuring accuracy in daily transactions</h3><h3></h3>
