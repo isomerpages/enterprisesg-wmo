@@ -18,8 +18,7 @@ contacts:
   - content:
       - phone: 6898 1800
       - email: ""
-      - other: "You can contact us via telephone on Mon - Fri: 8.30am - 5.30pm. For
-          assistance after our operating hours, please write to us."
+      - other: "You can contact us via telephone on Mon - Fri: 8.30am - 5.30pm."
     title: General Enquiries & Feedback
 feedback: ""
 ---
