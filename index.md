@@ -6,7 +6,8 @@ image: /images/isomer-logo.svg
 permalink: /
 notification: Please be informed effective 30 November 2021, the CPSA website
   has been replaced by our new CPSA+ website. Click <a
-  href="https://www.cpsaplus.gov.sg">here</a> to find out more about CPSA+.
+  href="https://www.cpsaplus.gov.sg/HomePage/">here</a> to find out more about
+  CPSA+.
 sections:
   - hero:
       subtitle: <h3>Ensuring accuracy in daily transactions</h3><h3></h3>
