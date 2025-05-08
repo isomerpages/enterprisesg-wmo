@@ -1,0 +1,12 @@
+logo: /images/about/wmo-hi-res.png
+links:
+  - title: For Businesses
+    collection: businesses
+  - title: For Consumers
+    collection: consumers
+  - title: News and Media
+    resource_room: true
+  - title: About
+    collection: about-us
+  - title: Contact us
+    url: /contact-us/
