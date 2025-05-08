@@ -5,8 +5,8 @@
 @charset "utf-8";
 
 // Agency brand colors
-$primary: #0066B3; //Corporate Red
-$secondary: #0066B3; //Pantone 432C
+$primary: #0066B3; //Corporate blue
+$secondary: #0066B3; 
 $secondary-hover: lighten($primary, 10%);
 
 {%- for media-color in site.colors.media-colors -%}
