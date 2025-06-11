@@ -4,10 +4,9 @@ title: Weights and Measures Office
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: Please be informed effective 30 November 2021, the CPSA website
-  has been replaced by our new CPSA+ website. Click <a
-  href="https://www.cpsaplus.gov.sg/HomePage/">here</a> to find out more about
-  CPSA+.
+notification: Government officials will NEVER ask you to transfer money or
+  disclose bank log-in details over a phone call. If in doubt, call the 24/7
+  ScamShield Helpline at 1799 or visit https://www.scamshield.gov.sg.
 sections:
   - hero:
       subtitle: <h3>Ensuring accuracy in daily transactions</h3><h3></h3>
@@ -25,6 +24,7 @@ sections:
           description: Qualified companies are allowed to carry out the verification of
             weighing and measuring instruments for trade use
           url: /businesses/authorised-verifiers-and-recognised-testing-laboratories
+      variant: center
   - infopic:
       title: Tips for consumers when buying products sold by weight
       description: Check that you receive the correct quantity when purchasing goods
