@@ -25,6 +25,6 @@ contacts:
       - phone: +65 6325 8282
       - email: ""
       - other: "Note: See our operating hours above."
-    title: Overseas callers
+    title: Overseas Callers
 feedback: https://go.gov.sg/contact-wmo
 ---
