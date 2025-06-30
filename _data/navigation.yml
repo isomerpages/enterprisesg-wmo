@@ -1,0 +1,12 @@
+logo: /images/WMO_Lock_Up_Blue_Bar_2.png
+links:
+  - title: For Businesses
+    collection: businesses
+  - title: For Consumers
+    collection: consumers
+  - title: News and Media
+    resource_room: true
+  - title: About
+    collection: about-us
+  - title: Contact us
+    url: /contact-us/

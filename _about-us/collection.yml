@@ -1,0 +1,8 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - overview.md
+      - faq/.keep
+      - faq/frequently-asked-questions-on-weights-and-measures.md
+      - faq/frequently-asked-questions-on-accuracy-label.md

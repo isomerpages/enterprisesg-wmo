@@ -1,0 +1,9 @@
+collections:
+  businesses:
+    output: true
+    order:
+      - overview.md
+      - users-of-weighing-and-measuring-instruments-for-trade.md
+      - suppliers-or-importers-of-weighing-and-measuring-instruments.md
+      - Authorised Verifiers.md
+      - suppliers-or-sellers-of-pre-packaged-goods.md
