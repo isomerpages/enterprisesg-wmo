@@ -18,13 +18,13 @@ contacts:
   - content:
       - phone: 1800 325 8282
       - email: ""
-      - other: (Airtime charges apply for mobile calls to 1800 service lines; See our
-          operating hours above.)
+      - other: "Note: Airtime charges apply for mobile calls to 1800 service lines. <br>
+          See our operating hours above."
     title: Local callers - General Enquiries & Feedback
   - content:
       - phone: +65 6325 8282
       - email: ""
-      - other: See our operating hours above.
+      - other: "Note: See our operating hours above."
     title: Overseas callers
 feedback: https://go.gov.sg/contact-wmo
 ---
