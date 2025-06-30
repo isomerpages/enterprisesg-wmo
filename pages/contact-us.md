@@ -19,6 +19,6 @@ contacts:
       - phone: 1800 325 8282
       - email: ""
       - other: Our operating hours are 8:30am to 5:30pm on working days.
-    title: General Enquiries & Feedback
+    title: General Enquiries & Feedback (CCCS Hotline)
 feedback: https://go.gov.sg/contact-wmo
 ---
