@@ -4,9 +4,11 @@ title: Weights and Measures Office
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: Government officials will NEVER ask you to transfer money or
-  disclose bank log-in details over a phone call. If in doubt, call the 24/7
-  ScamShield Helpline at 1799 or visit https://www.scamshield.gov.sg.
+notification: From 1 July 2025, the Weights and Measures Office is transferred
+  to the Competition and Consumer Commission of Singapore.<br><br>Government
+  officials will NEVER ask you to transfer money or disclose bank log-in details
+  over a phone call. If in doubt, call the 24/7 ScamShield Helpline at 1799 or
+  visit https://www.scamshield.gov.sg.
 sections:
   - hero:
       subtitle: <h3>Ensuring accuracy in daily transactions</h3><h3></h3>
