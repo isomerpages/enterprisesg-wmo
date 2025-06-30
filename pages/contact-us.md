@@ -18,12 +18,13 @@ contacts:
   - content:
       - phone: 1800 325 8282
       - email: ""
-      - other: Our operating hours are 8:30am to 5:30pm on working days.
+      - other: (Airtime charges apply for mobile calls to 1800 service lines; See our
+          operating hours above.)
     title: Local callers - General Enquiries & Feedback
   - content:
       - phone: +65 6325 8282
       - email: ""
-      - other: ""
+      - other: See our operating hours above.
     title: Overseas callers
 feedback: https://go.gov.sg/contact-wmo
 ---
