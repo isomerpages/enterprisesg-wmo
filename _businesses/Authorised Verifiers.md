@@ -15,7 +15,7 @@ of Testing and Calibration Laboratories.</p>
 <p>For more information on the AV Scheme, please refer to the links below.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/businesses/av_scheme_info_booklet.pdf" rel="noopener noreferrer nofollow" target="_blank">Authorised Verifier Scheme Information Booklet</a>
+<p><a href="/files/businesses/av_scheme_info_booklet.pdf" rel="noopener nofollow" target="_blank">Authorised Verifier Scheme Information Booklet</a>
 </p>
 </li>
 <li>
