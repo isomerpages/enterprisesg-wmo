@@ -30,17 +30,20 @@ through the online form at&nbsp;<a rel="noopener noreferrer nofollow" target="_b
 The Weights and Measures Office will process the application once all required
 supporting documents have been received and verified. You can expect to
 hear about the outcome within 30 working days from that point. If you have
-any questions during this process, please contact us at <a href="mailto:weightsandmeasures@enterprisesg.gov.sg" rel="noopener noreferrer nofollow" target="_blank">weightsandmeasures@enterprisesg.gov.sg</a>.</p>
+any questions during this process, please contact us through our <a href="https://go.gov.sg/contact-wmo" rel="noopener nofollow" target="_blank">online form</a>.</p>
 <p>More information on the Weights and Measures Programme can be found below.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/businesses/wmo_info_booklet.pdf" rel="noopener noreferrer nofollow" target="_blank">Singapore Weights and Measures Information Booklet</a>{:target="_blank"}</p>
+<p><a href="/files/businesses/wmo_info_booklet.pdf" rel="noopener noreferrer nofollow" target="_blank">Singapore Weights and Measures Information Booklet</a>
+</p>
 </li>
 <li>
-<p><a href="https://www.go.gov.sg/pattern-registration" rel="noopener noreferrer nofollow" target="_blank">e-registration of Weighing/Measuring Instruments</a>{:target="_blank"}</p>
+<p><a href="https://www.go.gov.sg/pattern-registration" rel="noopener noreferrer nofollow" target="_blank">e-registration of Weighing/Measuring Instruments</a>
+</p>
 </li>
 <li>
-<p><a href="https://www.cpsaplus.gov.sg/Homepage/RegistryOfRegisteredSuppliersAndPatternApproval" rel="noopener noreferrer nofollow" target="_blank">Register of Weighing and Measuring Instruments Granted Pattern Approval</a>{:target="_blank"}</p>
+<p><a href="https://www.cpsaplus.gov.sg/Homepage/RegistryOfRegisteredSuppliersAndPatternApproval" rel="noopener noreferrer nofollow" target="_blank">Register of Weighing and Measuring Instruments Granted Pattern Approval</a>
+</p>
 </li>
 </ul>
 <p></p>
