@@ -162,7 +162,7 @@ calibration services.</p>
 search for a list of accredited organisations for calibration services.</p>
 <p><strong>13. How can I contact WMO?</strong>
 </p>
-<p>For more enquiries, please contact WMO through our <a href="https://go.gov.sg/contact-wmo" rel="noopener nofollow" target="_blank">online form,</a> or via CCCS hotline:
+<p>For more enquiries, please contact WMO through our <a href="https://go.gov.sg/contact-wmo" rel="noopener nofollow" target="_blank">online form,</a> or via CCS hotline:
 <br><strong>Local Calls:</strong> 1800-325-8282 (airtime charges apply for
 mobile calls to 1800 service line)
 <br><strong>Overseas Calls:</strong> +65 6325 8282</p>
