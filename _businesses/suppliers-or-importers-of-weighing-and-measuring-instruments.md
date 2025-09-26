@@ -34,11 +34,11 @@ any questions during this process, please contact us through our <a href="https:
 <p>More information on the Weights and Measures Programme can be found below.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/businesses/wmo_info_booklet.pdf" rel="noopener noreferrer nofollow" target="_blank">Singapore Weights and Measures Information Booklet</a>
+<p><a href="/files/01__WM_Info_booklet__26_Sep_25_.pdf" rel="noopener noreferrer nofollow" target="_blank">Singapore Weights and Measures Information Booklet</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.go.gov.sg/pattern-registration" rel="noopener noreferrer nofollow" target="_blank">e-registration of Weighing/Measuring Instruments</a>
+<p><a href="https://form.gov.sg/6176282b9982c20014ee611dApplication%20form%20for%20Pattern%20Registration" rel="noopener noreferrer nofollow" target="_blank">Application Form for Pattern Registration</a>
 </p>
 </li>
 <li>

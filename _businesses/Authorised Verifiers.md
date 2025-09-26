@@ -15,15 +15,15 @@ of Testing and Calibration Laboratories.</p>
 <p>For more information on the AV Scheme, please refer to the links below.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/businesses/av_scheme_info_booklet.pdf" rel="noopener nofollow" target="_blank">Authorised Verifier Scheme Information Booklet</a>
+<p><a href="/files/02__AV_scheme_info_booklet__26_Sep_25_.pdf" rel="noopener nofollow" target="_blank">Authorised Verifier Scheme Information Booklet</a>
 </p>
 </li>
 <li>
-<p><a href="/files/businesses/wmo_info_booklet.pdf" rel="noopener noreferrer nofollow" target="_blank">Singapore Weights and Measures Information Booklet</a>
+<p><a href="/files/01__WM_Info_booklet__26_Sep_25_.pdf" rel="noopener noreferrer nofollow" target="_blank">Singapore Weights and Measures Information Booklet</a>
 </p>
 </li>
 <li>
-<p><a href="/files/businesses/appln_for_designation_as_av.pdf" rel="noopener noreferrer nofollow" target="_blank">Application for Designation as Authorised Verifier</a>
+<p><a href="/files/03__appln_for_appointment_as_av.pdf" rel="noopener noreferrer nofollow" target="_blank">Application for Appointment as Authorised Verifier</a>
 </p>
 </li>
 <li>

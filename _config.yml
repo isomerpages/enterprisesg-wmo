@@ -1,9 +1,9 @@
 title: Weights and Measures Office
 url: https://www.weightsandmeasures.gov.sg
-favicon: /images/New_WMO_logo_2.png
+favicon: /images/WMO_Favicon.png
 colors:
   primary-color: "#6031b6"
-  secondary-color: "#4372d6"
+  secondary-color: "#0033a1"
   media-colors:
     - title: media-color-one
       color: "#49759a"
