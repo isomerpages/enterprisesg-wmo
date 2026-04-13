@@ -26,7 +26,7 @@ used for trade purposes.</p>
 <p><strong>Application procedure</strong>
 </p>
 <p>You may apply for pattern registration of weighing and measuring instruments
-through the online form at&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pattern-registration</a>.
+through the online form at&nbsp;<a href="https://form.gov.sg/6176282b9982c20014ee611d" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pattern-registration</a>.
 The Weights and Measures Office will process the application once all required
 supporting documents have been received and verified. You can expect to
 hear about the outcome within 30 working days from that point. If you have
@@ -38,7 +38,7 @@ any questions during this process, please contact us through our <a href="https:
 </p>
 </li>
 <li>
-<p><a href="https://form.gov.sg/6176282b9982c20014ee611dApplication%20form%20for%20Pattern%20Registration" rel="noopener noreferrer nofollow" target="_blank">Application Form for Pattern Registration</a>
+<p><a href="https://form.gov.sg/6176282b9982c20014ee611d" rel="noopener noreferrer nofollow" target="_blank">Application Form for Pattern Registration</a>
 </p>
 </li>
 <li>
