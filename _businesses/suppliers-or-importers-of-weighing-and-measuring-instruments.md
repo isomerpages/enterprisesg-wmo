@@ -30,11 +30,11 @@ through the online form at&nbsp;<a href="https://form.gov.sg/6176282b9982c20014e
 The Weights and Measures Office will process the application once all required
 supporting documents have been received and verified. You can expect to
 hear about the outcome within 30 working days from that point. If you have
-any questions during this process, please contact us through our <a href="https://go.gov.sg/contact-wmo" rel="noopener nofollow" target="_blank">online form</a>.</p>
+any questions during this process, please contact us through our <a href="https://go.gov.sg/contactwmo" rel="noopener nofollow" target="_blank">online form</a>.</p>
 <p>More information on the Weights and Measures Programme can be found below.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/01__WM_Info_booklet__26_Sep_25_.pdf" rel="noopener noreferrer nofollow" target="_blank">Singapore Weights and Measures Information Booklet</a>
+<p><a href="/files/wmo_info_booklet.pdf" rel="noopener noreferrer nofollow" target="_blank">Singapore Weights and Measures Information Booklet</a>
 </p>
 </li>
 <li>

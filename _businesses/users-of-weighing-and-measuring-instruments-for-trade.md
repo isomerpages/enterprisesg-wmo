@@ -89,7 +89,7 @@ information or location of your instrument if there are any changes.</p>
 be sent via SMS based on the contact information provided to the AVs for
 instrument registration.</p>
 <p>You may find out more about the QR code label and registration of instruments
-in CPSA+ in <a href="/files/businesses/wmo_info_booklet.pdf" rel="noopener noreferrer nofollow" target="_blank">Chapter 4.2 of the Weights and Measures Information Booklet</a>.</p>
+in CPSA+ in <a href="/files/wmo_info_booklet.pdf" rel="noopener noreferrer nofollow" target="_blank">Chapter 4.2 of the Weights and Measures Information Booklet</a>.</p>
 <p>For more information on how to login to CPSA+ and access information about
 your registered instruments, click <a href="https://www.cpsaplus.gov.sg" rel="noopener noreferrer nofollow" target="_blank">here</a> and refer to the CPSA+ guidebook
 for weighing and measuring instrument owners.</p>
@@ -101,7 +101,7 @@ by weight, and Litre for goods measured by volume.</p>
 <p>More information on Weights and Measures can be found below.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/businesses/wmo_info_booklet.pdf" rel="noopener noreferrer nofollow" target="_blank">Singapore Weights and Measures Information Booklet</a>
+<p><a href="/files/wmo_info_booklet.pdf" rel="noopener noreferrer nofollow" target="_blank">Singapore Weights and Measures Information Booklet</a>
 </p>
 </li>
 <li>
