@@ -65,4 +65,6 @@ of measurement, refer to the First Schedule of the <a href="https://sso.agc.gov.
 </tr>
 </tbody>
 </table>
-<p>For more information on PPGs, please refer to Chapter 4.3 of the <a href="/files/wmo_info_booklet.pdf" rel="noopener noreferrer nofollow" target="_blank">Singapore Weights and Measures Information Booklet</a>.</p>
+<p>For more information on PPGs, please refer to Chapter 4.3 of the <a href="/files/wmo_info_booklet.pdf" rel="noopener noreferrer nofollow" target="_blank">Singapore Weights and Measures Information Booklet</a>.
+<a href="/files/wmo_info_booklet.pdf" rel="noopener nofollow" target="_blank">file</a>
+</p>
