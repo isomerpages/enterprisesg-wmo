@@ -129,7 +129,7 @@ of the pump will be sealed during the stamping of the pump. Thereafter,
 the pump can be used for trade.</p>
 <p><strong>11. I have just purchased a product which I think is short-weight, probably because a faulty weighing or measuring instrument was used. Where can I file a report?</strong>
 </p>
-<p>You can file a report with the WMO through this <a href="https://go.gov.sg/contact-wmo" rel="noopener nofollow" target="_blank">online form</a>. Please provide the
+<p>You can file a report with the WMO through this <a href="https://go.gov.sg/contactwmo" rel="noopener nofollow" target="_blank">online form</a>. Please provide the
 following information:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -162,7 +162,7 @@ calibration services.</p>
 search for a list of accredited organisations for calibration services.</p>
 <p><strong>13. How can I contact WMO?</strong>
 </p>
-<p>For more enquiries, please contact WMO through our <a href="https://go.gov.sg/contact-wmo" rel="noopener nofollow" target="_blank">online form,</a> or via CCS hotline:
+<p>For more enquiries, please contact WMO through our <a href="https://go.gov.sg/contactwmo" rel="noopener nofollow" target="_blank">online form,</a> or via CCS hotline:
 <br><strong>Local Calls:</strong> 1800-325-8282 (airtime charges apply for
 mobile calls to 1800 service line)
 <br><strong>Overseas Calls:</strong> +65 6325 8282</p>
