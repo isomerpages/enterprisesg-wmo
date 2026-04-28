@@ -34,7 +34,7 @@ any questions during this process, please contact us through our <a href="https:
 <p>More information on the Weights and Measures Programme can be found below.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/01__WM_Info_booklet__26_Sep_25_.pdf" rel="noopener noreferrer nofollow" target="_blank">Singapore Weights and Measures Information Booklet</a>
+<p><a href="/files/wmo_info_booklet.pdf" rel="noopener noreferrer nofollow" target="_blank">Singapore Weights and Measures Information Booklet</a>
 </p>
 </li>
 <li>
