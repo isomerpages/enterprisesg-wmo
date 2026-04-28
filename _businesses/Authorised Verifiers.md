@@ -19,7 +19,7 @@ of Testing and Calibration Laboratories.</p>
 </p>
 </li>
 <li>
-<p><a href="/files/01__WM_Info_booklet__26_Sep_25_.pdf" rel="noopener noreferrer nofollow" target="_blank">Singapore Weights and Measures Information Booklet</a>
+<p><a href="/files/wmo_info_booklet.pdf" rel="noopener noreferrer nofollow" target="_blank">Singapore Weights and Measures Information Booklet</a>
 </p>
 </li>
 <li>
