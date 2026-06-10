@@ -26,6 +26,8 @@ contact details can be found on our <a href="/files/Register_of_Authorized_Verif
 by the AV through the WMO's application website (<a href="https://www.cpsaplus.gov.sg/HomePage/" rel="noopener noreferrer nofollow" target="_blank">CPSA+</a>). Members of public
 and businesses will be able to view the details of the instruments using
 the <a href="/files/Registry_of_Verified_Instruments___20260610_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Register of Instruments</a>.</p>
+<p><em>(please note that CPSA+ online portal will be undergoing scheduled maintenance from 9 Jun 2026, 6:00 PM to 15 Jun 2026, 9.00 AM. Access to the system will not be available during this period)</em>
+</p>
 <p>Please refer to <strong>Appendix E</strong> of the Weights and Measures
 Information Booklet below for the process to get your instrument verified.</p>
 <p></p>
