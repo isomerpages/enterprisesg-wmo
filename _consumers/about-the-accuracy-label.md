@@ -19,7 +19,7 @@ Effective 30 November 2021, weighing and measuring instruments used for trade wi
 
 The first 2 digits represent the year the instrument was registered in CPSA+. For example, instrument was registered by the AV in 2021, the unique identification number for the instrument would thus start with ‘21’ followed by its serialised number e.g., 21XXXXX.
 
-Consumers may either scan the QR code or search for the 7-digit unique identification number in the public registry [](/files/Registry_of_Verified_Instruments___20260610_2.pdf)here, to access more information about the instrument such as validity of its ACCURACY Label, date of last verification, as well as the business owner/ user of the instrument.
+Consumers may either scan the QR code or search for the 7-digit unique identification number in the public registry [](/files/Registry_of_Verified_Instruments___20260610_2.pdf), to access more information about the instrument such as validity of its ACCURACY Label, date of last verification, as well as the business owner/ user of the instrument.
 
 Scanning the QR code would also allow consumers to report on the instrument to the WMO. For example, if the instrument is found to have an expired ACCURACY Label, it is not reading zero even without any load placed on it, etc.
 
