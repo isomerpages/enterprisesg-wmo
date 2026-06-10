@@ -13,7 +13,7 @@ use instruments pattern registered with the Weights and Measures Office
 (AV) and affixed with the ACCURACY Label before it can be used for trade
 purpose.</p>
 <p>You can find a list of WMO pattern registered weighing and measuring instruments
-in the <a href="https://www.cpsaplus.gov.sg/Homepage/RegistryOfRegisteredSuppliersAndPatternApproval" rel="noopener noreferrer nofollow" target="_blank">Register of Weighing and Measuring Instruments Granted Pattern Approval</a>.</p>
+in the <a href="/files/businesses/Registry_of_Registered_Supplier_and_Patterns_Granted_Pattern_Approval___20260610.pdf" rel="noopener noreferrer nofollow" target="_blank">Register of Weighing and Measuring Instruments Granted Pattern Approval</a>.</p>
 <p><strong>Submit the instrument to an Authorized Verifier to verify that it is fit for trade use</strong>
 </p>
 <p>Under the Weights and Measures Act, it is an offence to use unregistered
@@ -21,11 +21,13 @@ i.e., not pattern registered, and/or unverified instruments for trade in
 Singapore.</p>
 <p>Businesses can contact one of the Authorized Verifiers (AVs) which are
 appointed by the WMO to carry out verification of these instruments. Their
-contact details can be found on our <a href="https://www.cpsaplus.gov.sg/Homepage/RegisterOfAuthorisedVerifier" rel="noopener noreferrer nofollow" target="_blank">Register of Authorized Verifiers</a>.</p>
+contact details can be found on our <a href="/files/Register_of_Authorized_Verifiers___20260610.pdf" rel="noopener noreferrer nofollow" target="_blank">Register of Authorized Verifiers</a>.</p>
 <p>Instrument verification records are immediately approved when submitted
 by the AV through the WMO's application website (<a href="https://www.cpsaplus.gov.sg/HomePage/" rel="noopener noreferrer nofollow" target="_blank">CPSA+</a>). Members of public
 and businesses will be able to view the details of the instruments using
-the <a href="https://www.cpsaplus.gov.sg/Homepage/PublicRegistryInstrumentList" rel="noopener noreferrer nofollow" target="_blank">Register of Instruments</a>.</p>
+the <a href="/files/Registry_of_Verified_Instruments___20260610_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Register of Instruments</a>.</p>
+<p><em>(please note that CPSA+ online portal will be undergoing scheduled maintenance from 9 Jun 2026, 6:00 PM to 15 Jun 2026, 9.00 AM. Access to the system will not be available during this period)</em>
+</p>
 <p>Please refer to <strong>Appendix E</strong> of the Weights and Measures
 Information Booklet below for the process to get your instrument verified.</p>
 <p></p>
@@ -105,11 +107,11 @@ by weight, and Litre for goods measured by volume.</p>
 </p>
 </li>
 <li>
-<p><a href="https://www.cpsaplus.gov.sg/Homepage/RegisterOfAuthorisedVerifier" rel="noopener noreferrer nofollow" target="_blank">List of Authorised Verifiers of Weighing and Measuring Instruments</a>
+<p><a href="/files/Register_of_Authorized_Verifiers___20260610.pdf" rel="noopener noreferrer nofollow" target="_blank">List of Authorised Verifiers of Weighing and Measuring Instrument</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.cpsaplus.gov.sg/Homepage/PublicRegistryInstrumentList" rel="noopener noreferrer nofollow" target="_blank">List of Registered Weighing and Measuring Instruments</a>
+<p><a href="/files/Registry_of_Verified_Instruments___20260610_2.pdf" rel="noopener noreferrer nofollow" target="_blank">List of Registered Weighing and Measuring Instruments</a>
 </p>
 </li>
 </ul>
