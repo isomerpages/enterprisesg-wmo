@@ -42,7 +42,7 @@ any questions during this process, please contact us through our <a href="https:
 </p>
 </li>
 <li>
-<p><a href="/files/Registry_of_Registered_Supplier_and_Patterns_Granted_Pattern_Approval___20260610.pdf" rel="noopener noreferrer nofollow" target="_blank">Register of Weighing and Measuring Instruments Granted Pattern Approval</a>
+<p><a href="https://www.cpsaplus.gov.sg/Homepage/RegistryOfRegisteredSuppliersAndPatternApproval" rel="noopener nofollow" target="_blank">Register of Weighing and Measuring Instruments Granted Pattern Approval</a>
 </p>
 </li>
 </ul>
