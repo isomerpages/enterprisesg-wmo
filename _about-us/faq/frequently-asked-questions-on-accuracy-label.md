@@ -71,7 +71,7 @@ prior to verification by Authorised Verifiers (AVs). The QR code label
 is to be affixed on the instrument by an AV.</p>
 <p>The QR code label serves different purpose for different stakeholders.</p>
 <p>For consumers, scanning the QR code of the instrument or searching for
-its 7-digit unique identification number in <a href="/files/Registry_of_Verified_Instruments___20260610_2.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> allows
+its 7-digit unique identification number in <a href="https://www.cpsaplus.gov.sg/Homepage/PublicRegistryInstrumentList" rel="noopener nofollow" target="_blank">CPSA+ public registry</a> allows
 them to access information about the instrument such as validity of its
 ACCURACY Label, date of last verification, as well as the business entity
 the instrument has been registered to in CPSA+.</p>
