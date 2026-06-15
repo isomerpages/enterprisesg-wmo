@@ -51,7 +51,7 @@ consumers or traders.</p>
 <p>Your weighing or measuring instrument needs to be verified before it can
 be used for trade. Contact an Authorised Verifier (AV) to make arrangements
 to have your weighing or measuring instrument verified/stamped. A list
-of the AVs can be found at <a href="/files/Register_of_Authorized_Verifiers___20260610.pdf" rel="noopener noreferrer nofollow" target="_blank">List of Authorised Verifiers of Weighing and Measuring Instruments</a>.</p>
+of the AVs can be found at <a href="https://www.cpsaplus.gov.sg/Homepage/RegisterOfAuthorisedVerifier" rel="noopener nofollow" target="_blank">List of Authorised Verifiers of Weighing and Measuring Instruments</a>.</p>
 <p><strong>5. Why is there a need to register the pattern of weighing and measuring instruments for trade use?</strong>
 </p>
 <p>The pattern of a weighing and measuring instrument refers to the design
